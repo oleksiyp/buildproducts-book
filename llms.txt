@@ -1,0 +1,10 @@
+# Building Products in the AI & Cloud Era
+
+> A free online book on building products — the product operating model, strategy, discovery, measurement and experimentation, pricing and packaging, designing for people, design systems, mobile and many channels, and APIs as products. 10 chapters, one running example (Encore, a concert-ticketing company deciding whether to build Verified Resale), a kata per chapter. Book 2 of the AI & Cloud Era series; followed by "Building Software at Scale in the AI & Cloud Era" (the Software book).
+
+- [Full book, single page](https://oleksiyp.github.io/buildproducts-book/)
+- [Full book as raw markdown](https://oleksiyp.github.io/buildproducts-book/llms-full.txt)
+- Per-chapter pages: https://oleksiyp.github.io/buildproducts-book/ch/1/ through /ch/10/
+- Architecture book: [Software Architecture in the AI & Cloud Era](https://oleksiyp.github.io/arch-book/)
+- Software book: [Building Software at Scale in the AI & Cloud Era](https://oleksiyp.github.io/buildsoftware-book/)
+- License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — free to share and adapt non-commercially, with attribution

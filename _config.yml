@@ -1,0 +1,14 @@
+title: "Building Products in the AI & Cloud Era"
+tag_line: "deciding what to build"
+description: "A free online book on building products: strategy, discovery, measurement and experiments, pricing, design for people, design systems, mobile, and APIs as products."
+theme: jekyll-theme-cayman
+# GA4 measurement ID (G-XXXXXXXXXX); empty disables analytics entirely. Shared with the arch book; filter by path.
+google_analytics: "G-N146BPW9JR"
+# Weekly digest API; empty hides every newsletter control
+newsletter_api: ""
+# Firebase Realtime Database URL for the live reader counter and reading statistics; empty hides them
+presence_database_url: ""
+exclude: [scripts, venv, cover-lab, drafting, OUTLINE.md]
+# This book's place in the series (_data/series.yml) and the page that ends it, where the shelf shows again
+series_key: products
+series_last: /ch/10/
