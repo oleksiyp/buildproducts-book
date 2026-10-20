@@ -1,0 +1,65 @@
+<div class="dg-figure" data-fig="fig-9-6" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-9-6-title fig-9-6-desc">
+<title id="fig-9-6-title">Encore&#x27;s webhook retry schedule</title>
+<desc id="fig-9-6-desc">Time after the event runs left to right, not to scale. Attempt 1 is immediate, and the delivery is logged with its status code and latency. Attempts 2 to 4 come at 30 seconds, 2 minutes and 10 minutes, and the event is marked retrying with its next attempt time. Attempts 5 to 7 come at 30 minutes, 1 hour and 3 hours, and the endpoint&#x27;s health turns amber in the portal. From attempt 8 onward, delivery is retried every 6 hours; after 24 hours of continuous failure the partner&#x27;s technical contacts get an email and a portal banner. At 72 hours the endpoint is disabled with notice, and its events are kept for replay for 14 days. Partners may shorten the total window to 24 hours or choose other intervals within bounds.</desc>
+<defs><marker id="fig-9-6-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-9-6-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-9-6-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<line class="dg-ill-soft" x1="72" y1="96" x2="552" y2="96"/>
+<line class="dg-ill-soft" x1="552" y1="96" x2="808" y2="96" stroke-dasharray="5 4"/>
+<line class="dg-ill-ink" x1="672" y1="88" x2="672" y2="104"/>
+<rect class="dg-mask" x="598" y="76" width="164" height="12" rx="2"/><text class="dg-label" x="680" y="85">ATTEMPT 8 ONWARD · EVERY 6 H</text>
+<rect class="dg-mask" x="780" y="52" width="56" height="12" rx="2"/><text class="dg-label dg-l-accent" x="808" y="61">DISABLED</text>
+<circle class="dg-ill-fill" cx="72" cy="96" r="5"/>
+<circle class="dg-ill-fill" cx="152" cy="96" r="5"/>
+<circle class="dg-ill-fill" cx="232" cy="96" r="5"/>
+<circle class="dg-ill-fill" cx="312" cy="96" r="5"/>
+<circle class="dg-ill-fill" cx="392" cy="96" r="5"/>
+<circle class="dg-ill-fill" cx="472" cy="96" r="5"/>
+<circle class="dg-ill-fill" cx="552" cy="96" r="5"/>
+<line class="dg-ill-accent" x1="808" y1="72" x2="808" y2="244"/>
+<rect class="dg-mask" x="24" y="152" width="88" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="24" y="152" width="88" height="40" rx="6"/>
+<text class="dg-name" x="68" y="176">Logged</text>
+<rect class="dg-mask" x="116" y="152" width="232" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="116" y="152" width="232" height="40" rx="6"/>
+<text class="dg-name" x="232" y="176">Retrying</text>
+<rect class="dg-mask" x="352" y="152" width="316" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="352" y="152" width="316" height="40" rx="6"/>
+<text class="dg-name" x="510" y="176">Health amber</text>
+<rect class="dg-mask" x="672" y="152" width="132" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="672" y="152" width="132" height="40" rx="6"/>
+<text class="dg-name" x="738" y="176">Email + banner</text>
+<text class="dg-eyebrow" x="24" y="32" style="text-anchor:start">ONE EVENT TO A FAILING ENDPOINT · TIME AFTER THE EVENT, NOT TO SCALE</text>
+<text class="dg-name" x="72" y="80">1</text>
+<text class="dg-tick" x="72" y="120" text-anchor="middle">0</text>
+<text class="dg-name" x="152" y="80">2</text>
+<text class="dg-tick" x="152" y="120" text-anchor="middle">30 S</text>
+<text class="dg-name" x="232" y="80">3</text>
+<text class="dg-tick" x="232" y="120" text-anchor="middle">2 MIN</text>
+<text class="dg-name" x="312" y="80">4</text>
+<text class="dg-tick" x="312" y="120" text-anchor="middle">10 MIN</text>
+<text class="dg-name" x="392" y="80">5</text>
+<text class="dg-tick" x="392" y="120" text-anchor="middle">30 MIN</text>
+<text class="dg-name" x="472" y="80">6</text>
+<text class="dg-tick" x="472" y="120" text-anchor="middle">1 H</text>
+<text class="dg-name" x="552" y="80">7</text>
+<text class="dg-tick" x="552" y="120" text-anchor="middle">3 H</text>
+<text class="dg-tick" x="672" y="120" text-anchor="middle">24 H</text>
+<rect class="dg-mask" x="794" y="110" width="28" height="14" rx="2"/>
+<text class="dg-tick" x="808" y="120" text-anchor="middle">72 H</text>
+<text class="dg-eyebrow" x="24" y="140" style="text-anchor:start">WHAT THE PARTNER SEES</text>
+<text class="dg-note" x="28" y="212" text-anchor="start">status code</text>
+<text class="dg-note" x="28" y="226" text-anchor="start">and latency</text>
+<text class="dg-note" x="120" y="212" text-anchor="start">event marked &quot;retrying&quot;,</text>
+<text class="dg-note" x="120" y="226" text-anchor="start">next attempt time shown</text>
+<text class="dg-note" x="356" y="212" text-anchor="start">endpoint health turns amber</text>
+<text class="dg-note" x="356" y="226" text-anchor="start">in the portal, and stays so</text>
+<text class="dg-note" x="676" y="212" text-anchor="start">after 24 h of failure,</text>
+<text class="dg-note" x="676" y="226" text-anchor="start">to technical contacts</text>
+<text class="dg-note" x="800" y="264" text-anchor="end">72 h: endpoint disabled with notice; events kept for replay for 14 days</text>
+<text class="dg-note" x="800" y="280" text-anchor="end">Partners may shorten the window to 24 h, or choose intervals within bounds</text>
+<line class="dg-rule" x1="24" y1="300" x2="840" y2="300"/>
+<rect class="dg-n dg-n-backend" x="24" y="311" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="319">What the partner sees in the portal</text>
+<rect class="dg-n dg-n-focal" x="270" y="311" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="292" y="319">Endpoint disabled at 72 h</text>
+</svg></div></div>

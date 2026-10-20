@@ -1,0 +1,66 @@
+<div class="dg-figure" data-fig="fig-6-3" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 528" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-6-3-title fig-6-3-desc">
+<title id="fig-6-3-title">The seven stages and two gulfs</title>
+<desc id="fig-6-3-desc">Norman&#x27;s seven stages of action drawn as a loop. From the goal at the top, the side of execution runs down the left: plan the action, specify it, perform it, acting on the world. The side of evaluation runs up the right: perceive the state of the world, interpret it, compare it with the goal. The gulf of execution, the distance between what a person wants to do and what the system lets them see they can do, is bridged by discoverability and mapping; on the butterfly ballot it produced more than 2,000 votes for Buchanan meant for Gore. The gulf of evaluation, the distance between the system&#x27;s state and what the person can perceive and understand of it, is bridged by feedback; on the ballot it produced about 6,600 net votes lost to Gore through overvotes, and in Verified Resale&#x27;s first seller flow a &#x27;Sold&#x27; badge beside a ticket that still looked valid.</desc>
+<defs><marker id="fig-6-3-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-6-3-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-6-3-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="88" y="100" width="224" height="220" rx="8"/><rect class="dg-mask" x="100" y="94" width="104" height="12" rx="2"/><text class="dg-eyebrow" x="152" y="103">GULF OF EXECUTION</text>
+<rect class="dg-zone" x="552" y="100" width="224" height="220" rx="8"/><rect class="dg-mask" x="564" y="94" width="108" height="12" rx="2"/><text class="dg-eyebrow" x="618" y="103">GULF OF EVALUATION</text>
+<path class="dg-a dg-a-muted" d="M 352,62 L 208,62 Q 200,62 200,70 L 200,124" marker-end="url(#fig-6-3-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 200,168 L 200,192" marker-end="url(#fig-6-3-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 200,236 L 200,260" marker-end="url(#fig-6-3-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 200,304 L 200,360 Q 200,368 208,368 L 312,368" marker-end="url(#fig-6-3-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 552,368 L 656,368 Q 664,368 664,360 L 664,304" marker-end="url(#fig-6-3-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 664,260 L 664,236" marker-end="url(#fig-6-3-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 664,192 L 664,168" marker-end="url(#fig-6-3-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 664,124 L 664,70 Q 664,62 656,62 L 512,62" marker-end="url(#fig-6-3-m-muted)"/>
+<rect class="dg-mask" x="242" y="348" width="28" height="12" rx="2"/><text class="dg-label" x="256" y="357">ACT</text>
+<rect class="dg-mask" x="584" y="348" width="48" height="12" rx="2"/><text class="dg-label" x="608" y="357">OBSERVE</text>
+<rect class="dg-mask" x="352" y="40" width="160" height="44" rx="6"/>
+<rect class="dg-n dg-n-focal" x="352" y="40" width="160" height="44" rx="6"/>
+<text class="dg-name" x="432" y="64">Goal</text>
+<text class="dg-sub" x="432" y="79">WHAT THE PERSON WANTS</text>
+<rect class="dg-mask" x="112" y="124" width="176" height="44" rx="6"/>
+<rect class="dg-n dg-n-backend" x="112" y="124" width="176" height="44" rx="6"/>
+<text class="dg-name" x="200" y="148">Plan</text>
+<text class="dg-sub" x="200" y="163">THE ACTION</text>
+<rect class="dg-mask" x="112" y="192" width="176" height="44" rx="6"/>
+<rect class="dg-n dg-n-backend" x="112" y="192" width="176" height="44" rx="6"/>
+<text class="dg-name" x="200" y="216">Specify</text>
+<text class="dg-sub" x="200" y="231">THE ACTION SEQUENCE</text>
+<rect class="dg-mask" x="112" y="260" width="176" height="44" rx="6"/>
+<rect class="dg-n dg-n-backend" x="112" y="260" width="176" height="44" rx="6"/>
+<text class="dg-name" x="200" y="284">Perform</text>
+<text class="dg-sub" x="200" y="299">ACT ON THE WORLD</text>
+<rect class="dg-mask" x="576" y="124" width="176" height="44" rx="6"/>
+<rect class="dg-n dg-n-backend" x="576" y="124" width="176" height="44" rx="6"/>
+<text class="dg-name" x="664" y="148">Compare</text>
+<text class="dg-sub" x="664" y="163">THE STATE WITH THE GOAL</text>
+<rect class="dg-mask" x="576" y="192" width="176" height="44" rx="6"/>
+<rect class="dg-n dg-n-backend" x="576" y="192" width="176" height="44" rx="6"/>
+<text class="dg-name" x="664" y="216">Interpret</text>
+<text class="dg-sub" x="664" y="231">WHAT WAS PERCEIVED</text>
+<rect class="dg-mask" x="576" y="260" width="176" height="44" rx="6"/>
+<rect class="dg-n dg-n-backend" x="576" y="260" width="176" height="44" rx="6"/>
+<text class="dg-name" x="664" y="284">Perceive</text>
+<text class="dg-sub" x="664" y="299">THE STATE OF THE WORLD</text>
+<rect class="dg-mask" x="312" y="344" width="240" height="48" rx="6"/>
+<rect class="dg-n dg-n-store" x="312" y="344" width="240" height="48" rx="6"/>
+<text class="dg-name" x="432" y="370">The world</text>
+<text class="dg-sub" x="432" y="385">THE SYSTEM AND ITS STATE</text>
+<text class="dg-note" x="88" y="420" text-anchor="start">BRIDGED BY DISCOVERABILITY AND MAPPING</text>
+<text class="dg-note" x="88" y="436" text-anchor="start">BALLOT: MORE THAN 2,000 VOTES FOR BUCHANAN</text>
+<text class="dg-note" x="88" y="452" text-anchor="start">MEANT FOR GORE (WAND ET AL.)</text>
+<text class="dg-note" x="776" y="420" text-anchor="end">BRIDGED BY FEEDBACK</text>
+<text class="dg-note" x="776" y="436" text-anchor="end">BALLOT: ABOUT 6,600 NET GORE VOTES LOST</text>
+<text class="dg-note" x="776" y="452" text-anchor="end">TO OVERVOTES (PALM BEACH POST)</text>
+<text class="dg-note" x="776" y="468" text-anchor="end">RESALE: &#x27;SOLD&#x27; BADGE, OLD TICKET LOOKS VALID</text>
+<line class="dg-rule" x1="24" y1="488" x2="840" y2="488"/>
+<rect class="dg-n dg-n-focal" x="24" y="499" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="507">The person&#x27;s goal</text>
+<rect class="dg-n dg-n-backend" x="169" y="499" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="191" y="507">Stage of action</text>
+<rect class="dg-n dg-n-store" x="303" y="499" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="325" y="507">The system</text>
+<line class="dg-a dg-a-muted" x1="409" y1="504" x2="433" y2="504" marker-end="url(#fig-6-3-m-muted)"/>
+<text class="dg-legend" x="441" y="507">The cycle of one action</text>
+</svg></div></div>

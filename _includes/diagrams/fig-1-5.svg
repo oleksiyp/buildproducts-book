@@ -1,0 +1,60 @@
+<div class="dg-figure" data-fig="fig-1-5" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 372" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-1-5-title fig-1-5-desc">
+<title id="fig-1-5-title">Discovery and delivery as two tracks</title>
+<desc id="fig-1-5-desc">A schematic of dual-track development across four iterations; the ideas are lettered for illustration only. The discovery track, above, produces validated ideas through research, design and prototypes; the delivery track, below, produces releasable software. Each idea tested in discovery in one iteration is built in delivery in the next: idea A is tested in iteration 1 and built in 2, B in 2 and built in 3, D in 3 and built in 4, while E is tested in 4. Idea C is tested in iteration 2 and dropped, so it is never built. One frame encloses both tracks: the same team works in both, every week; they are not two teams and not two phases. A note quotes Jeff Patton: the most expensive way to test your idea is to build production quality software.</desc>
+<defs><marker id="fig-1-5-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-1-5-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-1-5-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="24" y="52" width="816" height="224" rx="8"/><rect class="dg-mask" x="36" y="46" width="296" height="12" rx="2"/><text class="dg-eyebrow" x="184" y="55">ONE TEAM · THE SAME PEOPLE IN BOTH TRACKS, EVERY WEEK</text>
+<path class="dg-a dg-a-muted" d="M 252,148 L 252,156 Q 252,164 260,164 L 372,164 Q 380,164 380,172 L 380,208" marker-end="url(#fig-1-5-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 420,148 L 420,156 Q 420,164 428,164 L 540,164 Q 548,164 548,172 L 548,208" marker-end="url(#fig-1-5-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 588,148 L 588,156 Q 588,164 596,164 L 708,164 Q 716,164 716,172 L 716,208" marker-end="url(#fig-1-5-m-muted)"/>
+<rect class="dg-mask" x="280" y="172" width="72" height="12" rx="2"/><text class="dg-label" x="316" y="181">TESTED IDEA</text>
+<rect class="dg-mask" x="176" y="96" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-input" x="176" y="96" width="152" height="52" rx="6"/>
+<text class="dg-name" x="252" y="124">Test idea A</text>
+<text class="dg-sub" x="252" y="139">research, design</text>
+<rect class="dg-mask" x="344" y="96" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-input" x="344" y="96" width="152" height="52" rx="6"/>
+<text class="dg-name" x="420" y="124">Test B and C</text>
+<text class="dg-sub" x="420" y="139">C dropped, never built</text>
+<rect class="dg-mask" x="512" y="96" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-input" x="512" y="96" width="152" height="52" rx="6"/>
+<text class="dg-name" x="588" y="124">Test idea D</text>
+<text class="dg-sub" x="588" y="139">research, design</text>
+<rect class="dg-mask" x="680" y="96" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-input" x="680" y="96" width="152" height="52" rx="6"/>
+<text class="dg-name" x="756" y="124">Test idea E</text>
+<text class="dg-sub" x="756" y="139">research, design</text>
+<rect class="dg-mask" x="176" y="208" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-optional" x="176" y="208" width="152" height="52" rx="6" stroke-dasharray="4,3"/>
+<text class="dg-name" x="252" y="238">Earlier work</text>
+<rect class="dg-mask" x="344" y="208" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="344" y="208" width="152" height="52" rx="6"/>
+<text class="dg-name" x="420" y="236">Build idea A</text>
+<text class="dg-sub" x="420" y="251">production code</text>
+<rect class="dg-mask" x="512" y="208" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="512" y="208" width="152" height="52" rx="6"/>
+<text class="dg-name" x="588" y="236">Build idea B</text>
+<text class="dg-sub" x="588" y="251">production code</text>
+<rect class="dg-mask" x="680" y="208" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="680" y="208" width="152" height="52" rx="6"/>
+<text class="dg-name" x="756" y="236">Build idea D</text>
+<text class="dg-sub" x="756" y="251">production code</text>
+<rect class="dg-ill-accent" x="352" y="128" width="136" height="14" rx="3"/>
+<text class="dg-eyebrow" x="24" y="28" style="text-anchor:start">SCHEMATIC · IDEAS LETTERED FOR ILLUSTRATION</text>
+<text class="dg-note" x="252" y="84" text-anchor="middle">ITERATION 1</text>
+<text class="dg-note" x="420" y="84" text-anchor="middle">ITERATION 2</text>
+<text class="dg-note" x="588" y="84" text-anchor="middle">ITERATION 3</text>
+<text class="dg-note" x="756" y="84" text-anchor="middle">ITERATION 4</text>
+<text class="dg-name" x="40" y="120" style="text-anchor:start">Discovery</text><text class="dg-sub" x="40" y="135" style="text-anchor:start">validated ideas</text>
+<text class="dg-name" x="40" y="232" style="text-anchor:start">Delivery</text><text class="dg-sub" x="40" y="247" style="text-anchor:start">releasable software</text>
+<text class="dg-note" x="24" y="304" text-anchor="start">“The most expensive way to test your idea is to build production quality software.” — Jeff Patton</text>
+<line class="dg-rule" x1="24" y1="332" x2="840" y2="332"/>
+<rect class="dg-n dg-n-input" x="24" y="343" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="351">Discovery work</text>
+<rect class="dg-n dg-n-backend" x="152" y="343" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="174" y="351">Delivery work</text>
+<rect class="dg-n dg-n-optional" x="274" y="343" width="16" height="10" rx="2" stroke-dasharray="4,3"/>
+<text class="dg-legend" x="296" y="351">Work from earlier iterations</text>
+<line class="dg-a dg-a-muted" x1="480" y1="348" x2="504" y2="348" marker-end="url(#fig-1-5-m-muted)"/>
+<text class="dg-legend" x="512" y="351">Tested idea handed to delivery</text>
+</svg></div></div>

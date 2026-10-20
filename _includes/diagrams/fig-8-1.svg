@@ -1,0 +1,106 @@
+<div class="dg-figure" data-fig="fig-8-1" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-8-1-title fig-8-1-desc">
+<title id="fig-8-1-title">The road to the App Store</title>
+<desc id="fig-8-1-desc">Top: a timeline from June 2007 to October 2008. In June 2007 the first iPhone shipped with no third-party native apps; Apple&#x27;s answer to developers that summer was web applications running in Safari, and some developers jailbroke their phones to run native code. In March 2008 Apple announced a software development kit and a store in which developers set their own prices and keep 70% of the revenue, while Apple hosts, signs and reviews every app. On 10 July 2008 the App Store opened as a section of iTunes 7.7 with more than 500 native applications; iPhone OS 2.0 and the iPhone 3G went on sale the next day; on 14 July Apple announced 10 million downloads in the first weekend. Google&#x27;s Android Market opened that October. Bottom: the path a build took from then on, a schematic. The developer&#x27;s build goes to Apple, which signs and reviews it, so a fix is a submission and not a deploy; the store then delivers the approved version to everyone at once, since staged rollouts came years later; and on the phone the version stays until its owner replaces it. The rules for the whole path are written and revised by the platform owner.</desc>
+<defs><marker id="fig-8-1-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-8-1-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-8-1-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<line class="dg-axis" x1="48" y1="168" x2="808" y2="168"/>
+<line class="dg-axis" x1="72" y1="168" x2="72" y2="172"/>
+<text class="dg-tick" x="72" y="184" text-anchor="middle">JUN</text>
+<line class="dg-axis" x1="116" y1="168" x2="116" y2="172"/>
+<text class="dg-tick" x="116" y="184" text-anchor="middle">JUL</text>
+<line class="dg-axis" x1="160" y1="168" x2="160" y2="172"/>
+<text class="dg-tick" x="160" y="184" text-anchor="middle">AUG</text>
+<line class="dg-axis" x1="204" y1="168" x2="204" y2="172"/>
+<text class="dg-tick" x="204" y="184" text-anchor="middle">SEP</text>
+<line class="dg-axis" x1="248" y1="168" x2="248" y2="172"/>
+<text class="dg-tick" x="248" y="184" text-anchor="middle">OCT</text>
+<line class="dg-axis" x1="292" y1="168" x2="292" y2="172"/>
+<text class="dg-tick" x="292" y="184" text-anchor="middle">NOV</text>
+<line class="dg-axis" x1="336" y1="168" x2="336" y2="172"/>
+<text class="dg-tick" x="336" y="184" text-anchor="middle">DEC</text>
+<line class="dg-axis" x1="380" y1="168" x2="380" y2="172"/>
+<text class="dg-tick" x="380" y="184" text-anchor="middle">JAN</text>
+<line class="dg-axis" x1="424" y1="168" x2="424" y2="172"/>
+<text class="dg-tick" x="424" y="184" text-anchor="middle">FEB</text>
+<line class="dg-axis" x1="468" y1="168" x2="468" y2="172"/>
+<text class="dg-tick" x="468" y="184" text-anchor="middle">MAR</text>
+<line class="dg-axis" x1="512" y1="168" x2="512" y2="172"/>
+<text class="dg-tick" x="512" y="184" text-anchor="middle">APR</text>
+<line class="dg-axis" x1="556" y1="168" x2="556" y2="172"/>
+<text class="dg-tick" x="556" y="184" text-anchor="middle">MAY</text>
+<line class="dg-axis" x1="600" y1="168" x2="600" y2="172"/>
+<text class="dg-tick" x="600" y="184" text-anchor="middle">JUN</text>
+<line class="dg-axis" x1="644" y1="168" x2="644" y2="172"/>
+<line class="dg-axis" x1="688" y1="168" x2="688" y2="172"/>
+<text class="dg-tick" x="688" y="184" text-anchor="middle">AUG</text>
+<line class="dg-axis" x1="732" y1="168" x2="732" y2="172"/>
+<text class="dg-tick" x="732" y="184" text-anchor="middle">SEP</text>
+<line class="dg-axis" x1="776" y1="168" x2="776" y2="172"/>
+<text class="dg-tick" x="776" y="184" text-anchor="middle">OCT</text>
+<text class="dg-axis-label" x="72" y="198" text-anchor="middle">2007</text><text class="dg-axis-label" x="380" y="198" text-anchor="middle">2008</text>
+<line class="dg-ill-soft" x1="72" y1="128" x2="72" y2="168"/>
+<line class="dg-ill-soft" x1="468" y1="128" x2="468" y2="168"/>
+<line class="dg-ill-soft" x1="776" y1="128" x2="776" y2="168"/>
+<line class="dg-ill-soft" x1="644" y1="168" x2="644" y2="216"/>
+<rect class="dg-zone" x="24" y="340" width="816" height="112" rx="8"/><rect class="dg-mask" x="36" y="334" width="328" height="12" rx="2"/><text class="dg-eyebrow" x="200" y="343">FROM THEN ON · THE PATH FROM A BUILD TO A PHONE (SCHEMATIC)</text>
+<path class="dg-a dg-a-muted" d="M 216,390 L 248,390" marker-end="url(#fig-8-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 416,390 L 448,390" marker-end="url(#fig-8-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 616,390 L 648,390" marker-end="url(#fig-8-1-m-muted)"/>
+<circle class="dg-dot dg-dot-ink" cx="72" cy="168" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="468" cy="168" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="776" cy="168" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="644" cy="168" r="5"/>
+<rect class="dg-mask" x="24" y="48" width="232" height="80" rx="6"/><rect class="dg-n dg-n-backend" x="24" y="48" width="232" height="80" rx="6"/>
+<rect class="dg-mask" x="344" y="48" width="248" height="80" rx="6"/><rect class="dg-n dg-n-backend" x="344" y="48" width="248" height="80" rx="6"/>
+<rect class="dg-mask" x="664" y="48" width="176" height="80" rx="6"/><rect class="dg-n dg-n-backend" x="664" y="48" width="176" height="80" rx="6"/>
+<rect class="dg-mask" x="456" y="216" width="384" height="88" rx="6"/><rect class="dg-n dg-n-focal" x="456" y="216" width="384" height="88" rx="6"/>
+<rect class="dg-mask" x="48" y="364" width="168" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="48" y="364" width="168" height="52" rx="6"/>
+<text class="dg-name" x="132" y="392">Developer&#x27;s build</text>
+<text class="dg-sub" x="132" y="407">a fix is a new build</text>
+<rect class="dg-mask" x="248" y="364" width="168" height="52" rx="6"/>
+<rect class="dg-n dg-n-focal" x="248" y="364" width="168" height="52" rx="6"/>
+<text class="dg-name" x="332" y="392">Apple signs, reviews</text>
+<text class="dg-sub" x="332" y="407">every app, every update</text>
+<rect class="dg-mask" x="448" y="364" width="168" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="448" y="364" width="168" height="52" rx="6"/>
+<text class="dg-name" x="532" y="392">App Store</text>
+<text class="dg-sub" x="532" y="407">to everyone at once</text>
+<rect class="dg-mask" x="648" y="364" width="168" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="648" y="364" width="168" height="52" rx="6"/>
+<text class="dg-name" x="732" y="392">The fan&#x27;s phone</text>
+<text class="dg-sub" x="732" y="407">version stays installed</text>
+<text class="dg-eyebrow" x="24" y="32" style="text-anchor:start">JUNE 2007 TO OCTOBER 2008 · ONE PLATFORM OWNER'S REVIEW IN FRONT OF ALL THIRD-PARTY SOFTWARE</text>
+<text class="dg-label" x="36" y="64" style="text-anchor:start">JUNE 2007</text>
+<text class="dg-name" x="36" y="82" style="text-anchor:start">iPhone ships, no native apps</text>
+<text class="dg-note" x="36" y="98">Apple&#x27;s answer: web apps in Safari</text>
+<text class="dg-note" x="36" y="111">some developers jailbreak for native</text>
+<text class="dg-label" x="356" y="64" style="text-anchor:start">MARCH 2008</text>
+<text class="dg-name" x="356" y="82" style="text-anchor:start">SDK and store announced</text>
+<text class="dg-note" x="356" y="98">developers set prices, keep 70%</text>
+<text class="dg-note" x="356" y="111">Apple hosts, signs, reviews every app</text>
+<text class="dg-label" x="676" y="64" style="text-anchor:start">OCTOBER 2008</text>
+<text class="dg-name" x="676" y="82" style="text-anchor:start">Android Market opens</text>
+<text class="dg-note" x="676" y="98">store review becomes</text>
+<text class="dg-note" x="676" y="111">the normal path</text>
+<text class="dg-label dg-l-accent" x="468" y="232" style="text-anchor:start">10 – 14 JULY 2008</text>
+<text class="dg-name" x="468" y="250" style="text-anchor:start">The App Store opens</text>
+<text class="dg-note" x="468" y="266">10 JUL  in iTunes 7.7, more than 500 native apps</text>
+<text class="dg-note" x="468" y="279">11 JUL  iPhone OS 2.0 and the iPhone 3G on sale</text>
+<text class="dg-note" x="468" y="292">14 JUL  10 million downloads in the first weekend</text>
+<text class="dg-note" x="52" y="432" text-anchor="start">a fix is a submission,</text>
+<text class="dg-note" x="52" y="445" text-anchor="start">not a deploy</text>
+<text class="dg-note" x="252" y="432" text-anchor="start">a reviewer stands between</text>
+<text class="dg-note" x="252" y="445" text-anchor="start">the build and the user</text>
+<text class="dg-note" x="452" y="432" text-anchor="start">no staged rollouts until</text>
+<text class="dg-note" x="452" y="445" text-anchor="start">years later</text>
+<text class="dg-note" x="652" y="432" text-anchor="start">until its owner replaces it</text>
+<text class="dg-note" x="652" y="445" text-anchor="start">with a newer one</text>
+<line class="dg-rule" x1="24" y1="480" x2="840" y2="480"/>
+<rect class="dg-n dg-n-focal" x="24" y="491" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="499">The opening, and the review that came with it</text>
+<rect class="dg-n dg-n-backend" x="325" y="491" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="347" y="499">Event or step</text>
+<line class="dg-a dg-a-muted" x1="447" y1="496" x2="471" y2="496" marker-end="url(#fig-8-1-m-muted)"/>
+<text class="dg-legend" x="479" y="499">Path of a release</text>
+</svg></div></div>

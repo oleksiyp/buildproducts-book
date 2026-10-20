@@ -1,0 +1,96 @@
+<div class="dg-figure" data-fig="fig-7-1" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 424" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-7-1-title fig-7-1-desc">
+<title id="fig-7-1-title">The subway&#x27;s signs, 1904 to 2014</title>
+<desc id="fig-7-1-desc">A schematic timeline, not to scale, drawn as a subway route with one station per event, in two rows. First row, three systems with one name and a standard built twice: 1904, the IRT&#x27;s ceramic mosaic tablets, with no common typeface, arrows or borders; 1940, the IRT, BMT and IND unified under city ownership but still signed three ways; 1966, the Transit Authority engages Unimark and Bob Noorda studies how passengers move; November 1967, the Chrystie Street Connection joins IND and BMT services and the confusion becomes a public complaint; before 1968, the Authority&#x27;s Bergen Street sign shop builds signs from Unimark&#x27;s proposal with no instruction and no inspection, the result Vignelli called the biggest mess in the world; 1968, Unimark is rehired; 1970, the Graphics Standards Manual is issued, with Standard Medium type, the black band and modular panels in one-foot units. Second row, two decades of drift, then an owner and a migration: around 1973 the signs switch to white on black against graffiti; through the 1970s fiscal crisis the standard is applied piecemeal; 1979, Paul Goldberger in the New York Times judges the signs confusing; December 1989, the MTA makes Helvetica its official typeface and hires Michael Hertz Associates to update the manual; the 1990s capital programs make the stations coherent. Afterlife: 2012, a copy is found in the basement of Pentagram&#x27;s New York office; 2014, the reissue&#x27;s Kickstarter raises $802,812 from about 6,700 backers. The 1970 manual and the 1989 owner are highlighted; the route between them is dashed, for the piecemeal years.</desc>
+<defs><marker id="fig-7-1-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-7-1-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-7-1-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="24" y="48" width="456" height="164" rx="8"/><rect class="dg-mask" x="36" y="42" width="136" height="12" rx="2"/><text class="dg-eyebrow" x="104" y="51">THREE SYSTEMS, ONE NAME</text>
+<rect class="dg-zone" x="488" y="48" width="352" height="164" rx="8"/><rect class="dg-mask" x="500" y="42" width="136" height="12" rx="2"/><text class="dg-eyebrow" x="568" y="51">A STANDARD, BUILT TWICE</text>
+<rect class="dg-zone" x="24" y="236" width="340" height="136" rx="8"/><rect class="dg-mask" x="36" y="230" width="120" height="12" rx="2"/><text class="dg-eyebrow" x="96" y="239">TWO DECADES OF DRIFT</text>
+<rect class="dg-zone" x="372" y="236" width="228" height="136" rx="8"/><rect class="dg-mask" x="384" y="230" width="124" height="12" rx="2"/><text class="dg-eyebrow" x="446" y="239">AN OWNER, A MIGRATION</text>
+<rect class="dg-zone" x="608" y="236" width="232" height="136" rx="8"/><rect class="dg-mask" x="620" y="230" width="60" height="12" rx="2"/><text class="dg-eyebrow" x="650" y="239">AFTERLIFE</text>
+<path class="dg-ill-ink" style="stroke-width:3" d="M 80,96 L 776,96"/>
+<path class="dg-ill-soft" style="stroke-width:3" stroke-dasharray="6 5" d="M 776,96 L 840,96 Q 848,96 848,104 L 848,216 Q 848,224 840,224 L 24,224 Q 16,224 16,232 L 16,276 Q 16,284 24,284 L 428,284"/>
+<path class="dg-ill-ink" style="stroke-width:3" d="M 428,284 L 776,284"/>
+<circle class="dg-ill-fill" cx="80" cy="96" r="6"/>
+<circle class="dg-ill-fill" cx="196" cy="96" r="6"/>
+<circle class="dg-ill-fill" cx="312" cy="96" r="6"/>
+<circle class="dg-ill-fill" cx="428" cy="96" r="6"/>
+<circle class="dg-ill-fill" cx="544" cy="96" r="6"/>
+<circle class="dg-ill-fill" cx="660" cy="96" r="6"/>
+<circle class="dg-ill-fill-accent" cx="776" cy="96" r="8"/>
+<circle class="dg-ill-fill" cx="80" cy="284" r="6"/>
+<circle class="dg-ill-fill" cx="196" cy="284" r="6"/>
+<circle class="dg-ill-fill" cx="312" cy="284" r="6"/>
+<circle class="dg-ill-fill-accent" cx="428" cy="284" r="8"/>
+<circle class="dg-ill-fill" cx="544" cy="284" r="6"/>
+<circle class="dg-ill-fill" cx="660" cy="284" r="6"/>
+<circle class="dg-ill-fill" cx="776" cy="284" r="6"/>
+<text class="dg-eyebrow" x="24" y="24" style="text-anchor:start">NEW YORK SUBWAY SIGNS · SCHEMATIC TIMELINE, STATIONS NOT TO SCALE</text>
+<text class="dg-name" x="80" y="80">1904</text>
+<text class="dg-note" x="80" y="120" text-anchor="middle">IRT mosaic</text>
+<text class="dg-note" x="80" y="133" text-anchor="middle">tablets: no</text>
+<text class="dg-note" x="80" y="146" text-anchor="middle">common type,</text>
+<text class="dg-note" x="80" y="159" text-anchor="middle">arrows or borders</text>
+<text class="dg-name" x="196" y="80">1940</text>
+<text class="dg-note" x="196" y="120" text-anchor="middle">IRT, BMT and IND</text>
+<text class="dg-note" x="196" y="133" text-anchor="middle">unified; still</text>
+<text class="dg-note" x="196" y="146" text-anchor="middle">signed three ways</text>
+<text class="dg-name" x="312" y="80">1966</text>
+<text class="dg-note" x="312" y="120" text-anchor="middle">TA engages</text>
+<text class="dg-note" x="312" y="133" text-anchor="middle">Unimark; Noorda</text>
+<text class="dg-note" x="312" y="146" text-anchor="middle">studies passengers</text>
+<text class="dg-name" x="428" y="80">Nov 1967</text>
+<text class="dg-note" x="428" y="120" text-anchor="middle">Chrystie Street</text>
+<text class="dg-note" x="428" y="133" text-anchor="middle">joins IND and BMT;</text>
+<text class="dg-note" x="428" y="146" text-anchor="middle">public complaint</text>
+<text class="dg-name" x="544" y="80">Bergen St</text>
+<text class="dg-note" x="544" y="120" text-anchor="middle">shop builds from</text>
+<text class="dg-note" x="544" y="133" text-anchor="middle">the proposal: no</text>
+<text class="dg-note" x="544" y="146" text-anchor="middle">instruction or</text>
+<text class="dg-note" x="544" y="159" text-anchor="middle">inspection</text>
+<text class="dg-name" x="660" y="80">1968</text>
+<text class="dg-note" x="660" y="120" text-anchor="middle">Unimark</text>
+<text class="dg-note" x="660" y="133" text-anchor="middle">rehired</text>
+<text class="dg-name" x="776" y="80">1970</text>
+<text class="dg-note" x="776" y="120" text-anchor="middle">Graphics Standards</text>
+<text class="dg-note" x="776" y="133" text-anchor="middle">Manual issued:</text>
+<text class="dg-note" x="776" y="146" text-anchor="middle">Standard Medium,</text>
+<text class="dg-note" x="776" y="159" text-anchor="middle">black band, 1-ft</text>
+<text class="dg-note" x="776" y="172" text-anchor="middle">panels</text>
+<text class="dg-name" x="80" y="268">c. 1973</text>
+<text class="dg-note" x="80" y="308" text-anchor="middle">white on black,</text>
+<text class="dg-note" x="80" y="321" text-anchor="middle">against graffiti</text>
+<text class="dg-name" x="196" y="268">1970s</text>
+<text class="dg-note" x="196" y="308" text-anchor="middle">fiscal crisis:</text>
+<text class="dg-note" x="196" y="321" text-anchor="middle">standard applied</text>
+<text class="dg-note" x="196" y="334" text-anchor="middle">piecemeal</text>
+<text class="dg-name" x="312" y="268">1979</text>
+<text class="dg-note" x="312" y="308" text-anchor="middle">Goldberger, in</text>
+<text class="dg-note" x="312" y="321" text-anchor="middle">the NYT, judges</text>
+<text class="dg-note" x="312" y="334" text-anchor="middle">signs confusing</text>
+<text class="dg-name" x="428" y="268">Dec 1989</text>
+<text class="dg-note" x="428" y="308" text-anchor="middle">MTA: Helvetica</text>
+<text class="dg-note" x="428" y="321" text-anchor="middle">official; Hertz</text>
+<text class="dg-note" x="428" y="334" text-anchor="middle">Associates update</text>
+<text class="dg-note" x="428" y="347" text-anchor="middle">the manual</text>
+<text class="dg-name" x="544" y="268">1990s</text>
+<text class="dg-note" x="544" y="308" text-anchor="middle">capital programs</text>
+<text class="dg-note" x="544" y="321" text-anchor="middle">make stations</text>
+<text class="dg-note" x="544" y="334" text-anchor="middle">coherent</text>
+<text class="dg-name" x="660" y="268">2012</text>
+<text class="dg-note" x="660" y="308" text-anchor="middle">copy found in</text>
+<text class="dg-note" x="660" y="321" text-anchor="middle">Pentagram&#x27;s</text>
+<text class="dg-note" x="660" y="334" text-anchor="middle">basement</text>
+<text class="dg-name" x="776" y="268">2014</text>
+<text class="dg-note" x="776" y="308" text-anchor="middle">reissue on</text>
+<text class="dg-note" x="776" y="321" text-anchor="middle">Kickstarter:</text>
+<text class="dg-note" x="776" y="334" text-anchor="middle">$802,812, about</text>
+<text class="dg-note" x="776" y="347" text-anchor="middle">6,700 backers</text>
+<line class="dg-rule" x1="24" y1="384" x2="840" y2="384"/>
+<rect class="dg-n dg-n-backend" x="24" y="395" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="403">Event</text>
+<rect class="dg-n dg-n-focal" x="102" y="395" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="124" y="403">The standard issued; the owner hired to keep it</text>
+<line class="dg-a dg-a-muted dg-dash" x1="415" y1="400" x2="439" y2="400" marker-end="url(#fig-7-1-m-muted)"/>
+<text class="dg-legend" x="447" y="403">Piecemeal years</text>
+</svg></div></div>

@@ -1,0 +1,102 @@
+<div class="dg-figure" data-fig="fig-1-3" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 588" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-1-3-title fig-1-3-desc">
+<title id="fig-1-3-title">Encore&#x27;s products, customers and teams</title>
+<desc id="fig-1-3-desc">A map of Encore&#x27;s 40 stream-aligned teams, of about nine engineers each, and its platform group. Four kinds of customer sit at the top, each served by one product. The fan storefront and app serves fans with 9 teams, such as Fan Discovery, Seat Map, Checkout, Mobile App and Design System, and watches the share of admitted fans who complete a purchase. The organizer console serves organizers with 7 teams, such as Organizer Console, Event Setup, Pricing &amp; Presales, Festivals and Forecasting, and watches the time from contract to first event on sale. The partner and public APIs serve partners with 3 teams, Public API, Partner APIs and Embeds &amp; Channels, and watch partner integrations certified and live. Encore SaaS for venues serves venue tenants with 7 teams, such as Tenant Onboarding, Tenant Configuration, Box Office and Venue Entry, and watches the days from signature to a venue&#x27;s first sale. Beneath all four products, 14 shared-domain teams, such as On-Sale, Bot Screening, Inventory, Orders &amp; Payments and Fan Messaging, serve all four kinds of customer through the products; each domain watches its service levels, set with its consumers. Beneath the stream-aligned teams, the internal platform, 9 platform teams of 40 people such as Reliability, Runtime, Developer Portal and AI Platform, serves Encore&#x27;s own teams and watches the share of services on the golden path.</desc>
+<defs><marker id="fig-1-3-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-1-3-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-1-3-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<path class="dg-a dg-a-link" d="M 132,132 L 132,80" marker-end="url(#fig-1-3-m-link)"/>
+<path class="dg-a dg-a-muted" d="M 132,336 L 132,288" marker-end="url(#fig-1-3-m-muted)"/>
+<path class="dg-a dg-a-link" d="M 332,132 L 332,80" marker-end="url(#fig-1-3-m-link)"/>
+<path class="dg-a dg-a-muted" d="M 332,336 L 332,288" marker-end="url(#fig-1-3-m-muted)"/>
+<path class="dg-a dg-a-link" d="M 532,132 L 532,80" marker-end="url(#fig-1-3-m-link)"/>
+<path class="dg-a dg-a-muted" d="M 532,336 L 532,288" marker-end="url(#fig-1-3-m-muted)"/>
+<path class="dg-a dg-a-link" d="M 732,132 L 732,80" marker-end="url(#fig-1-3-m-link)"/>
+<path class="dg-a dg-a-muted" d="M 732,336 L 732,288" marker-end="url(#fig-1-3-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 432,476 L 432,428" marker-end="url(#fig-1-3-m-muted)"/>
+<rect class="dg-zone" x="24" y="116" width="816" height="312" rx="8"/><rect class="dg-mask" x="36" y="110" width="288" height="12" rx="2"/><text class="dg-eyebrow" x="180" y="119">40 STREAM-ALIGNED TEAMS · ABOUT NINE ENGINEERS EACH</text>
+<rect class="dg-mask" x="440" y="446" width="196" height="12" rx="2"/><text class="dg-label" x="538" y="455">PAVED ROADS FOR ENCORE&#x27;S OWN TEAMS</text>
+<rect class="dg-mask" x="40" y="44" width="184" height="36" rx="6"/>
+<rect class="dg-n dg-n-external" x="40" y="44" width="184" height="36" rx="6"/>
+<text class="dg-name" x="132" y="66">Fans</text>
+<rect class="dg-mask" x="240" y="44" width="184" height="36" rx="6"/>
+<rect class="dg-n dg-n-external" x="240" y="44" width="184" height="36" rx="6"/>
+<text class="dg-name" x="332" y="66">Organizers</text>
+<rect class="dg-mask" x="440" y="44" width="184" height="36" rx="6"/>
+<rect class="dg-n dg-n-external" x="440" y="44" width="184" height="36" rx="6"/>
+<text class="dg-name" x="532" y="66">Partners</text>
+<rect class="dg-mask" x="640" y="44" width="184" height="36" rx="6"/>
+<rect class="dg-n dg-n-external" x="640" y="44" width="184" height="36" rx="6"/>
+<text class="dg-name" x="732" y="66">Venue tenants</text>
+<rect class="dg-mask" x="40" y="132" width="184" height="156" rx="6"/>
+<rect class="dg-n dg-n-backend" x="40" y="132" width="184" height="156" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="48" y="138" width="48" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="72" y="147">9 TEAMS</text>
+<text class="dg-name" x="132" y="170">Fan storefront and app</text>
+<text class="dg-sub" x="132" y="186">Fan Discovery, Seat Map,</text>
+<text class="dg-sub" x="132" y="198">Checkout, Mobile App,</text>
+<text class="dg-sub" x="132" y="210">Design System</text>
+<line class="dg-rule" x1="52" y1="244" x2="212" y2="244"/>
+<text class="dg-eyebrow" x="132" y="256">OUTCOME IT WATCHES</text>
+<text class="dg-sub" x="132" y="269">share of admitted fans</text>
+<text class="dg-sub" x="132" y="281">who complete a purchase</text>
+<rect class="dg-mask" x="240" y="132" width="184" height="156" rx="6"/>
+<rect class="dg-n dg-n-backend" x="240" y="132" width="184" height="156" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="248" y="138" width="48" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="272" y="147">7 TEAMS</text>
+<text class="dg-name" x="332" y="170">Organizer console</text>
+<text class="dg-sub" x="332" y="186">Organizer Console, Event</text>
+<text class="dg-sub" x="332" y="198">Setup, Pricing &amp; Presales,</text>
+<text class="dg-sub" x="332" y="210">Festivals, Forecasting</text>
+<line class="dg-rule" x1="252" y1="244" x2="412" y2="244"/>
+<text class="dg-eyebrow" x="332" y="256">OUTCOME IT WATCHES</text>
+<text class="dg-sub" x="332" y="269">time from contract to</text>
+<text class="dg-sub" x="332" y="281">first event on sale</text>
+<rect class="dg-mask" x="440" y="132" width="184" height="156" rx="6"/>
+<rect class="dg-n dg-n-backend" x="440" y="132" width="184" height="156" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="448" y="138" width="48" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="472" y="147">3 TEAMS</text>
+<text class="dg-name" x="532" y="170">Partner and public APIs</text>
+<text class="dg-sub" x="532" y="186">Public API, Partner APIs,</text>
+<text class="dg-sub" x="532" y="198">Embeds &amp; Channels</text>
+<line class="dg-rule" x1="452" y1="244" x2="612" y2="244"/>
+<text class="dg-eyebrow" x="532" y="256">OUTCOME IT WATCHES</text>
+<text class="dg-sub" x="532" y="269">partner integrations</text>
+<text class="dg-sub" x="532" y="281">certified and live</text>
+<rect class="dg-mask" x="640" y="132" width="184" height="156" rx="6"/>
+<rect class="dg-n dg-n-backend" x="640" y="132" width="184" height="156" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="648" y="138" width="48" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="672" y="147">7 TEAMS</text>
+<text class="dg-name" x="732" y="170">Encore SaaS for venues</text>
+<text class="dg-sub" x="732" y="186">Tenant Onboarding, Tenant</text>
+<text class="dg-sub" x="732" y="198">Configuration, Box Office,</text>
+<text class="dg-sub" x="732" y="210">Venue Entry</text>
+<line class="dg-rule" x1="652" y1="244" x2="812" y2="244"/>
+<text class="dg-eyebrow" x="732" y="256">OUTCOME IT WATCHES</text>
+<text class="dg-sub" x="732" y="269">days from signature to</text>
+<text class="dg-sub" x="732" y="281">a venue&#x27;s first sale</text>
+<rect class="dg-mask" x="40" y="336" width="784" height="76" rx="6"/>
+<rect class="dg-n dg-n-store" x="40" y="336" width="784" height="76" rx="6"/>
+<rect class="dg-tagbox dg-t-store" x="48" y="342" width="52" height="12" rx="2"/>
+<text class="dg-tag dg-t-store" x="74" y="351">14 TEAMS</text>
+<text class="dg-name" x="432" y="380">Shared domains, with customers in every column</text>
+<text class="dg-sub" x="432" y="395">On-Sale, Bot Screening, Inventory, Orders &amp; Payments, Fan Messaging · outcome: each domain&#x27;s service levels, set with its consumers</text>
+<rect class="dg-mask" x="40" y="476" width="784" height="64" rx="6"/>
+<rect class="dg-n dg-n-input" x="40" y="476" width="784" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-input" x="48" y="482" width="156" height="12" rx="2"/>
+<text class="dg-tag dg-t-input" x="126" y="491">9 PLATFORM TEAMS · 40 PEOPLE</text>
+<text class="dg-name" x="432" y="514">Internal platform</text>
+<text class="dg-sub" x="432" y="529">Reliability, Runtime, Developer Portal, AI Platform · outcome: share of services on the golden path</text>
+<text class="dg-eyebrow" x="24" y="28" style="text-anchor:start">ENCORE IN ITS NINTH YEAR · WHO EACH TEAM SERVES</text>
+<line class="dg-rule" x1="24" y1="548" x2="840" y2="548"/>
+<rect class="dg-n dg-n-external" x="24" y="559" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="567">Customer</text>
+<rect class="dg-n dg-n-backend" x="118" y="559" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="140" y="567">Product and its teams</text>
+<rect class="dg-n dg-n-store" x="285" y="559" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="307" y="567">Shared domains</text>
+<rect class="dg-n dg-n-input" x="413" y="559" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="435" y="567">Platform</text>
+<line class="dg-a dg-a-link" x1="507" y1="564" x2="531" y2="564" marker-end="url(#fig-1-3-m-link)"/>
+<text class="dg-legend" x="539" y="567">Serves a customer</text>
+<line class="dg-a dg-a-muted" x1="662" y1="564" x2="686" y2="564" marker-end="url(#fig-1-3-m-muted)"/>
+<text class="dg-legend" x="694" y="567">Serves teams</text>
+</svg></div></div>

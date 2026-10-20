@@ -1,0 +1,96 @@
+<div class="dg-figure" data-fig="fig-6-1" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 484" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-6-1-title fig-6-1-desc">
+<title id="fig-6-1-title">The butterfly ballot</title>
+<desc id="fig-6-1-desc">A schematic of the presidential page of the Palm Beach County punch-card ballot of 7 November 2000, after the photograph reproduced by Wand et al. (2001). Ten tickets are split across two facing pages with one column of punch holes down the spine between them. The left page lists, in order, Bush (Republican), Gore (Democratic), Browne (Libertarian), Nader (Green), Harris (Socialist Workers) and Hagelin (Natural Law); their arrows point right to holes 3, 5, 7, 9, 11 and 13. The right page lists Buchanan (Reform), McReynolds (Socialist), Phillips (Constitution) and Moorehead (Workers World), whose arrows point left to holes 4, 6, 8 and 10, followed by a write-in box; position 12, beside it, has no arrow. The holes alternate between the pages. Gore is the second name on the left, but the second hole, number 4, is Buchanan&#x27;s; Gore&#x27;s is the third, number 5. A voter who counted down the left page and punched the second hole voted for Buchanan.</desc>
+<defs><marker id="fig-6-1-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-6-1-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-6-1-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="24" y="48" width="368" height="324" rx="8"/><rect class="dg-mask" x="36" y="42" width="60" height="12" rx="2"/><text class="dg-eyebrow" x="66" y="51">LEFT PAGE</text>
+<rect class="dg-zone" x="472" y="48" width="368" height="324" rx="8"/><rect class="dg-mask" x="484" y="42" width="64" height="12" rx="2"/><text class="dg-eyebrow" x="516" y="51">RIGHT PAGE</text>
+<rect class="dg-ill-soft" x="416" y="64" width="32" height="292" rx="4"/>
+<path class="dg-a dg-a-muted" d="M 352,92 L 422,92" marker-end="url(#fig-6-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 352,140 L 422,140" marker-end="url(#fig-6-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 352,188 L 422,188" marker-end="url(#fig-6-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 352,236 L 422,236" marker-end="url(#fig-6-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 352,284 L 422,284" marker-end="url(#fig-6-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 352,332 L 422,332" marker-end="url(#fig-6-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 512,116 L 442,116" marker-end="url(#fig-6-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 512,164 L 442,164" marker-end="url(#fig-6-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 512,212 L 442,212" marker-end="url(#fig-6-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 512,260 L 442,260" marker-end="url(#fig-6-1-m-muted)"/>
+<rect class="dg-mask" x="377" y="72" width="20" height="12" rx="2"/><text class="dg-label" x="387" y="81">#3</text>
+<rect class="dg-mask" x="377" y="120" width="20" height="12" rx="2"/><text class="dg-label" x="387" y="129">#5</text>
+<rect class="dg-mask" x="377" y="168" width="20" height="12" rx="2"/><text class="dg-label" x="387" y="177">#7</text>
+<rect class="dg-mask" x="377" y="216" width="20" height="12" rx="2"/><text class="dg-label" x="387" y="225">#9</text>
+<rect class="dg-mask" x="373" y="264" width="28" height="12" rx="2"/><text class="dg-label" x="387" y="273">#11</text>
+<rect class="dg-mask" x="373" y="312" width="28" height="12" rx="2"/><text class="dg-label" x="387" y="321">#13</text>
+<rect class="dg-mask" x="467" y="96" width="20" height="12" rx="2"/><text class="dg-label" x="477" y="105">#4</text>
+<rect class="dg-mask" x="467" y="144" width="20" height="12" rx="2"/><text class="dg-label" x="477" y="153">#6</text>
+<rect class="dg-mask" x="467" y="192" width="20" height="12" rx="2"/><text class="dg-label" x="477" y="201">#8</text>
+<rect class="dg-mask" x="463" y="240" width="28" height="12" rx="2"/><text class="dg-label" x="477" y="249">#10</text>
+<rect class="dg-mask" x="40" y="72" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="40" y="72" width="312" height="40" rx="6"/>
+<text class="dg-name" x="196" y="94">George W. Bush</text>
+<text class="dg-sub" x="196" y="109">REPUBLICAN</text>
+<rect class="dg-mask" x="40" y="120" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-focal" x="40" y="120" width="312" height="40" rx="6"/>
+<text class="dg-name" x="196" y="142">Al Gore</text>
+<text class="dg-sub" x="196" y="157">DEMOCRATIC</text>
+<rect class="dg-mask" x="40" y="168" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="40" y="168" width="312" height="40" rx="6"/>
+<text class="dg-name" x="196" y="190">Harry Browne</text>
+<text class="dg-sub" x="196" y="205">LIBERTARIAN</text>
+<rect class="dg-mask" x="40" y="216" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="40" y="216" width="312" height="40" rx="6"/>
+<text class="dg-name" x="196" y="238">Ralph Nader</text>
+<text class="dg-sub" x="196" y="253">GREEN</text>
+<rect class="dg-mask" x="40" y="264" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="40" y="264" width="312" height="40" rx="6"/>
+<text class="dg-name" x="196" y="286">James Harris</text>
+<text class="dg-sub" x="196" y="301">SOCIALIST WORKERS</text>
+<rect class="dg-mask" x="40" y="312" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="40" y="312" width="312" height="40" rx="6"/>
+<text class="dg-name" x="196" y="334">John Hagelin</text>
+<text class="dg-sub" x="196" y="349">NATURAL LAW</text>
+<rect class="dg-mask" x="512" y="96" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="512" y="96" width="312" height="40" rx="6"/>
+<text class="dg-name" x="668" y="118">Pat Buchanan</text>
+<text class="dg-sub" x="668" y="133">REFORM</text>
+<rect class="dg-mask" x="512" y="144" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="512" y="144" width="312" height="40" rx="6"/>
+<text class="dg-name" x="668" y="166">David McReynolds</text>
+<text class="dg-sub" x="668" y="181">SOCIALIST</text>
+<rect class="dg-mask" x="512" y="192" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="512" y="192" width="312" height="40" rx="6"/>
+<text class="dg-name" x="668" y="214">Howard Phillips</text>
+<text class="dg-sub" x="668" y="229">CONSTITUTION</text>
+<rect class="dg-mask" x="512" y="240" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-backend" x="512" y="240" width="312" height="40" rx="6"/>
+<text class="dg-name" x="668" y="262">Monica Moorehead</text>
+<text class="dg-sub" x="668" y="277">WORKERS WORLD</text>
+<rect class="dg-mask" x="512" y="288" width="312" height="40" rx="6"/>
+<rect class="dg-n dg-n-optional" x="512" y="288" width="312" height="40" rx="6" stroke-dasharray="4,3"/>
+<text class="dg-name" x="668" y="310">Write-in candidate</text>
+<text class="dg-sub" x="668" y="325">NO ARROW</text>
+<circle class="dg-ill-fill" cx="432" cy="92" r="6"/>
+<circle class="dg-ill-fill-accent" cx="432" cy="116" r="7"/>
+<circle class="dg-ill-fill" cx="432" cy="140" r="6"/>
+<circle class="dg-ill-fill" cx="432" cy="164" r="6"/>
+<circle class="dg-ill-fill" cx="432" cy="188" r="6"/>
+<circle class="dg-ill-fill" cx="432" cy="212" r="6"/>
+<circle class="dg-ill-fill" cx="432" cy="236" r="6"/>
+<circle class="dg-ill-fill" cx="432" cy="260" r="6"/>
+<circle class="dg-ill-fill" cx="432" cy="284" r="6"/>
+<circle class="dg-ill-soft" cx="432" cy="308" r="6"/>
+<circle class="dg-ill-fill" cx="432" cy="332" r="6"/>
+<text class="dg-note" x="432" y="56" text-anchor="middle">HOLES</text>
+<text class="dg-note" x="24" y="400" text-anchor="start">READ DOWN THE LEFT PAGE: BUSH IS THE 1ST NAME AND HAS THE 1ST HOLE (#3).</text>
+<text class="dg-note" x="24" y="416" text-anchor="start">GORE IS THE 2ND NAME, BUT THE 2ND HOLE (#4) IS BUCHANAN&#x27;S. GORE&#x27;S IS THE 3RD (#5).</text>
+<text class="dg-note" x="24" y="432" text-anchor="start">THE ARROWS ARE CORRECT; THE READING ORDER CONTRADICTS THEM.</text>
+<text class="dg-note" x="840" y="432" text-anchor="end">SCHEMATIC, AFTER WAND ET AL. 2001, FIG. 1</text>
+<line class="dg-rule" x1="24" y1="444" x2="840" y2="444"/>
+<rect class="dg-n dg-n-backend" x="24" y="455" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="463">Ticket, arrow to its hole</text>
+<rect class="dg-n dg-n-focal" x="214" y="455" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="236" y="463">Gore: 2nd name, 3rd hole</text>
+<rect class="dg-n dg-n-optional" x="398" y="455" width="16" height="10" rx="2" stroke-dasharray="4,3"/>
+<text class="dg-legend" x="420" y="463">Write-in, no hole</text>
+</svg></div></div>

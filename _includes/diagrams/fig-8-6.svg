@@ -1,0 +1,72 @@
+<div class="dg-figure" data-fig="fig-8-6" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 548" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-8-6-title fig-8-6-desc">
+<title id="fig-8-6-title">Reissue, and where the guarantee lives</title>
+<desc id="fig-8-6-desc">When a ticket is resold, Encore&#x27;s Inventory team reissues it. The old ticket identity joins the revocation list held by every gate scanner, which Venue Entry&#x27;s software syncs every 30 seconds while it has a connection and which may run offline for up to four hours; each scanner holds the per-ticket secrets it needs and accepts one time step either side. The buyer&#x27;s app receives a new identity and a new secret, and computes rotating codes from the secret and a clock corrected at each sync; the gate admits them. The seller&#x27;s app can still generate well-formed codes from the old secret, and every gate refuses them. Wallet passes are updated through Fan Messaging on a best-effort basis, the seller&#x27;s marked Transferred and the buyer&#x27;s newly delivered; they are a courtesy, and a static or rotating wallet barcode is checked against the same list. Bottom, a schematic of the event day: the default resale window runs from purchase until two hours before doors open, so every revocation exists before the first fan reaches a gate; a scanner that has synced once after the window closed holds the complete list, and one that has not shows an amber status to the gate supervisor. Nothing the fan&#x27;s phone does is part of the guarantee.</desc>
+<defs><marker id="fig-8-6-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-8-6-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-8-6-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="24" y="424" width="816" height="72" rx="8"/><rect class="dg-mask" x="36" y="418" width="124" height="12" rx="2"/><text class="dg-eyebrow" x="98" y="427">EVENT DAY (SCHEMATIC)</text>
+<line class="dg-axis" x1="48" y1="452" x2="816" y2="452"/>
+<rect class="dg-ar-soft" x="64" y="446" width="376" height="12"/>
+<path class="dg-a dg-a-accent" d="M 112,160 L 112,72 Q 112,64 120,64 L 732,64 Q 740,64 740,72 L 740,88" marker-end="url(#fig-8-6-m-accent)"/>
+<path class="dg-a dg-a-muted" d="M 200,228 L 312,228" marker-end="url(#fig-8-6-m-muted)"/>
+<path class="dg-a dg-a-link dg-dash" d="M 112,272 L 112,332 Q 112,340 120,340 L 312,340" marker-end="url(#fig-8-6-m-link)"/>
+<path class="dg-a dg-a-accent" d="M 528,116 L 640,116" marker-end="url(#fig-8-6-m-accent)"/>
+<path class="dg-a dg-a-muted" d="M 528,228 L 640,228" marker-end="url(#fig-8-6-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 528,340 L 732,340 Q 740,340 740,332 L 740,256" marker-end="url(#fig-8-6-m-muted)"/>
+<rect class="dg-mask" x="318" y="44" width="216" height="12" rx="2"/><text class="dg-label dg-l-accent" x="426" y="53">OLD IDENTITY JOINS THE REVOCATION LIST</text>
+<rect class="dg-mask" x="210" y="208" width="92" height="12" rx="2"/><text class="dg-label" x="256" y="217">NEW ID + SECRET</text>
+<rect class="dg-mask" x="134" y="348" width="156" height="12" rx="2"/><text class="dg-label dg-l-link" x="212" y="357">FAN MESSAGING · BEST EFFORT</text>
+<rect class="dg-mask" x="560" y="96" width="48" height="12" rx="2"/><text class="dg-label dg-l-accent" x="584" y="105">REFUSED</text>
+<rect class="dg-mask" x="556" y="208" width="56" height="12" rx="2"/><text class="dg-label" x="584" y="217">ADMITTED</text>
+<rect class="dg-mask" x="558" y="348" width="152" height="12" rx="2"/><text class="dg-label" x="634" y="357">STATIC OR ROTATING BARCODE</text>
+<rect class="dg-mask" x="212" y="432" width="80" height="12" rx="2"/><text class="dg-label" x="252" y="441">RESALE WINDOW</text>
+<rect class="dg-mask" x="24" y="160" width="176" height="112" rx="6"/><rect class="dg-n dg-n-backend" x="24" y="160" width="176" height="112" rx="6"/>
+<rect class="dg-mask" x="312" y="88" width="216" height="56" rx="6"/>
+<rect class="dg-n dg-n-backend" x="312" y="88" width="216" height="56" rx="6"/>
+<text class="dg-name" x="420" y="118">Seller&#x27;s app</text>
+<text class="dg-sub" x="420" y="133">old identity, old secret</text>
+<rect class="dg-mask" x="312" y="200" width="216" height="56" rx="6"/>
+<rect class="dg-n dg-n-backend" x="312" y="200" width="216" height="56" rx="6"/>
+<text class="dg-name" x="420" y="230">Buyer&#x27;s app</text>
+<text class="dg-sub" x="420" y="245">new identity, new secret</text>
+<rect class="dg-mask" x="312" y="312" width="216" height="56" rx="6"/>
+<rect class="dg-n dg-n-external" x="312" y="312" width="216" height="56" rx="6"/>
+<text class="dg-name" x="420" y="342">Wallet passes</text>
+<text class="dg-sub" x="420" y="357">Apple and Google</text>
+<rect class="dg-mask" x="640" y="88" width="200" height="168" rx="6"/><rect class="dg-n dg-n-backend" x="640" y="88" width="200" height="168" rx="6"/>
+<circle class="dg-dot dg-dot-ink" cx="64" cy="452" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="440" cy="452" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="760" cy="452" r="4"/>
+<text class="dg-eyebrow" x="24" y="32" style="text-anchor:start">A RESOLD TICKET IS REISSUED · THE GUARANTEE LIVES AT THE GATE, NOT ON THE PHONE</text>
+<text class="dg-name" x="36" y="182" style="text-anchor:start">Encore reissues</text>
+<text class="dg-sub" x="36" y="196" style="text-anchor:start">INVENTORY</text>
+<line class="dg-rule" x1="36" y1="206" x2="188" y2="206"/>
+<text class="dg-note" x="36" y="222">old identity revoked</text>
+<text class="dg-note" x="36" y="236">new identity issued</text>
+<text class="dg-note" x="316" y="160" text-anchor="start">codes still well-formed</text>
+<text class="dg-note" x="316" y="272" text-anchor="start">clock corrected at each sync</text>
+<text class="dg-note" x="316" y="384" text-anchor="start">&quot;Transferred&quot;, new pass: a courtesy</text>
+<text class="dg-name" x="652" y="110" style="text-anchor:start">Gate scanner</text>
+<text class="dg-sub" x="652" y="124" style="text-anchor:start">VENUE ENTRY</text>
+<line class="dg-rule" x1="652" y1="134" x2="828" y2="134"/>
+<text class="dg-note" x="652" y="150">per-ticket secrets</text>
+<text class="dg-note" x="652" y="164">revocation list</text>
+<text class="dg-note" x="652" y="178">syncs every 30 s</text>
+<text class="dg-note" x="652" y="192">offline up to 4 h</text>
+<text class="dg-note" x="652" y="206">± one time step</text>
+<text class="dg-note" x="64" y="472" text-anchor="start">from purchase</text>
+<text class="dg-note" x="440" y="472" text-anchor="middle">closes: doors − 2 h</text>
+<text class="dg-note" x="440" y="485" text-anchor="middle">every revocation now exists</text>
+<text class="dg-note" x="760" y="472" text-anchor="middle">doors open</text>
+<text class="dg-note" x="824" y="485" text-anchor="end">synced since the close: complete list; not: amber</text>
+<line class="dg-rule" x1="24" y1="508" x2="840" y2="508"/>
+<rect class="dg-n dg-n-backend" x="24" y="519" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="527">Encore software</text>
+<rect class="dg-n dg-n-external" x="158" y="519" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="180" y="527">Wallets owned by Apple and Google</text>
+<line class="dg-a dg-a-accent" x1="392" y1="524" x2="416" y2="524" marker-end="url(#fig-8-6-m-accent)"/>
+<text class="dg-legend" x="424" y="527">The guarantee</text>
+<line class="dg-a dg-a-link dg-dash" x1="524" y1="524" x2="548" y2="524" marker-end="url(#fig-8-6-m-link)"/>
+<text class="dg-legend" x="556" y="527">Best effort</text>
+<line class="dg-a dg-a-muted" x1="645" y1="524" x2="669" y2="524" marker-end="url(#fig-8-6-m-muted)"/>
+<text class="dg-legend" x="677" y="527">Code shown at the gate</text>
+</svg></div></div>

@@ -1,0 +1,76 @@
+<div class="dg-figure" data-fig="fig-2-4" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 648" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-2-4-title fig-2-4-desc">
+<title id="fig-2-4-title">Verified Resale on a Wardley map</title>
+<desc id="fig-2-4-desc">A Wardley map. The vertical axis is visibility to the fan, from the need at the top through components the fan sees, those met at the door, those seen by organizers, to those nobody sees; the horizontal axis is evolution, from genesis through custom and product to commodity. The anchor is the need: a fan holds a guaranteed ticket. Seen by the fan, in product: listing and storefront (partners already run good ones; leave them open), checkout with the all-in price (reuse the primary checkout) and wallet passes (Apple and Google supply them). At the door: rotating barcodes and gate revocation lists, custom and moving toward product (own them now and watch them evolve). Seen by organizers: organizer resale rules, between genesis and custom (own them and expect to learn fast). Unseen: reissue under a new ticket identity, custom and highlighted as Encore&#x27;s advantage (own it); buyer screening, custom on rented signals (reuse Bot Screening as it is); the fee split in the finance ledger, custom on a commodity ledger (extend what exists); and payments with split payouts, spanning product and commodity (the primary PSP&#x27;s marketplace product carries it). The placements are the trio&#x27;s judgments.</desc>
+<defs><marker id="fig-2-4-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-2-4-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-2-4-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<line class="dg-grid" x1="136" y1="102" x2="840" y2="102"/>
+<line class="dg-grid" x1="136" y1="246" x2="840" y2="246"/>
+<line class="dg-grid" x1="136" y1="298" x2="840" y2="298"/>
+<line class="dg-grid" x1="136" y1="354" x2="840" y2="354"/>
+<line class="dg-ill-soft" x1="312" y1="44" x2="312" y2="552" stroke-dasharray="4 4"/>
+<line class="dg-ill-soft" x1="488" y1="44" x2="488" y2="552" stroke-dasharray="4 4"/>
+<line class="dg-ill-soft" x1="664" y1="44" x2="664" y2="552" stroke-dasharray="4 4"/>
+<line class="dg-axis" x1="136" y1="552" x2="840" y2="552"/>
+<line class="dg-axis" x1="136" y1="552" x2="136" y2="44"/>
+<line class="dg-ill-ink" x1="624" y1="524" x2="704" y2="524" stroke-width="3"/>
+<path class="dg-a dg-a-muted dg-dash" d="M 432,268 L 512,268" marker-end="url(#fig-2-4-m-muted)"/>
+<path class="dg-a dg-a-muted dg-dash" d="M 272,324 L 352,324" marker-end="url(#fig-2-4-m-muted)"/>
+<rect class="dg-mask" x="296" y="52" width="256" height="40" rx="6"/>
+<rect class="dg-n dg-n-input" x="296" y="52" width="256" height="40" rx="6"/>
+<text class="dg-name" x="424" y="74">A fan holds a guaranteed ticket</text>
+<text class="dg-sub" x="424" y="89">the need: the anchor of the map</text>
+<circle class="dg-ill-fill" cx="520" cy="124" r="6"/>
+<circle class="dg-ill-fill" cx="568" cy="172" r="6"/>
+<circle class="dg-ill-fill" cx="616" cy="220" r="6"/>
+<circle class="dg-ill-fill" cx="424" cy="268" r="6"/>
+<circle class="dg-ill-fill" cx="264" cy="324" r="6"/>
+<circle class="dg-ill-fill-accent" cx="360" cy="380" r="8"/>
+<circle class="dg-ill-fill" cx="400" cy="428" r="6"/>
+<circle class="dg-ill-fill" cx="440" cy="476" r="6"/>
+<circle class="dg-ill-fill" cx="664" cy="524" r="6"/>
+<text class="dg-note" x="124" y="75" text-anchor="end">THE NEED</text>
+<text class="dg-note" x="124" y="177" text-anchor="end">SEEN BY THE FAN</text>
+<text class="dg-note" x="124" y="275" text-anchor="end">AT THE DOOR</text>
+<text class="dg-note" x="124" y="329" text-anchor="end">SEEN BY ORGANIZERS</text>
+<text class="dg-note" x="124" y="457" text-anchor="end">NOBODY SEES</text>
+<text class="dg-tick" x="224" y="572" text-anchor="middle">GENESIS</text>
+<text class="dg-tick" x="400" y="572" text-anchor="middle">CUSTOM</text>
+<text class="dg-tick" x="576" y="572" text-anchor="middle">PRODUCT (+RENTAL)</text>
+<text class="dg-tick" x="752" y="572" text-anchor="middle">COMMODITY (+UTILITY)</text>
+<text class="dg-axis-label" x="840" y="592" text-anchor="end">EVOLUTION →</text>
+<text class="dg-axis-label" x="136" y="28" text-anchor="start">↑ VISIBLE TO THE FAN</text>
+<rect class="dg-mask" x="532" y="114" width="196" height="32" rx="2"/>
+<text class="dg-name" x="536" y="128" style="text-anchor:start">Listing and storefront</text>
+<text class="dg-sub" x="536" y="141" style="text-anchor:start">partners run good ones; leave open</text>
+<rect class="dg-mask" x="580" y="162" width="160" height="32" rx="2"/>
+<text class="dg-name" x="584" y="176" style="text-anchor:start">Checkout, all-in price</text>
+<text class="dg-sub" x="584" y="189" style="text-anchor:start">reuse the primary checkout</text>
+<rect class="dg-mask" x="628" y="210" width="164" height="32" rx="2"/>
+<text class="dg-name" x="632" y="224" style="text-anchor:start">Wallet passes</text>
+<text class="dg-sub" x="632" y="237" style="text-anchor:start">Apple and Google supply them</text>
+<rect class="dg-mask" x="524" y="258" width="208" height="32" rx="2"/>
+<text class="dg-name" x="528" y="272" style="text-anchor:start">Rotating barcodes, revocation</text>
+<text class="dg-sub" x="528" y="285" style="text-anchor:start">own it now; watch it evolve</text>
+<rect class="dg-mask" x="364" y="314" width="184" height="32" rx="2"/>
+<text class="dg-name" x="368" y="328" style="text-anchor:start">Organizer resale rules</text>
+<text class="dg-sub" x="368" y="341" style="text-anchor:start">own it, and expect to learn fast</text>
+<rect class="dg-mask" x="372" y="370" width="204" height="32" rx="2"/>
+<text class="dg-name" x="376" y="384" style="text-anchor:start">Reissue, new ticket identity</text>
+<text class="dg-sub" x="376" y="397" style="text-anchor:start">Encore&#x27;s advantage: own it</text>
+<rect class="dg-mask" x="412" y="418" width="220" height="32" rx="2"/>
+<text class="dg-name" x="416" y="432" style="text-anchor:start">Buyer screening</text>
+<text class="dg-sub" x="416" y="445" style="text-anchor:start">custom, on rented signals; reuse as is</text>
+<rect class="dg-mask" x="452" y="466" width="224" height="32" rx="2"/>
+<text class="dg-name" x="456" y="480" style="text-anchor:start">Fee split in the ledger</text>
+<text class="dg-sub" x="456" y="493" style="text-anchor:start">custom on a commodity ledger; extend it</text>
+<rect class="dg-mask" x="448" y="514" width="168" height="32" rx="2"/>
+<text class="dg-name" x="612" y="528" style="text-anchor:end">Payments, split payouts</text>
+<text class="dg-sub" x="612" y="541" style="text-anchor:end">the PSP&#x27;s marketplace product</text>
+<line class="dg-rule" x1="24" y1="608" x2="840" y2="608"/>
+<rect class="dg-n dg-n-backend" x="24" y="619" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="627">Component, placed by the trio&#x27;s judgment</text>
+<rect class="dg-n dg-n-focal" x="298" y="619" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="320" y="627">Encore&#x27;s advantage</text>
+<line class="dg-a dg-a-muted dg-dash" x1="448" y1="624" x2="472" y2="624" marker-end="url(#fig-2-4-m-muted)"/>
+<text class="dg-legend" x="480" y="627">Expected movement</text>
+</svg></div></div>

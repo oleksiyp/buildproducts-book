@@ -1,0 +1,103 @@
+<div class="dg-figure" data-fig="fig-4-1" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 376" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-4-1-title fig-4-1-desc">
+<title id="fig-4-1-title">Two ways to lay out a field trial</title>
+<desc id="fig-4-1-desc">A schematic, not a plan of any real Rothamsted trial. The same field is drawn twice as six columns by four rows of plots, with soil that varies in ways no one could list: a damp corner at the top left and a richer strip along the bottom. Plots given the fertilizer are marked F. Left, arranged by the experimenter: the fertilized plots fill the bottom two rows and so sit on the richer strip, and the fertilizer would be credited for what the soil did. Right, Fisher&#x27;s randomized blocks (1926): the field is divided into four blocks of similar ground, and within each block three of the six plots are given the fertilizer independently and wholly at random. The random plots fall unevenly, but that unevenness is the kind probability can measure.</desc>
+<defs><marker id="fig-4-1-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-4-1-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-4-1-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="24" y="40" width="360" height="280" rx="8"/><rect class="dg-mask" x="36" y="34" width="164" height="12" rx="2"/><text class="dg-eyebrow" x="118" y="43">ARRANGED BY THE EXPERIMENTER</text>
+<rect class="dg-zone" x="416" y="40" width="424" height="280" rx="8"/><rect class="dg-mask" x="428" y="34" width="184" height="12" rx="2"/><text class="dg-eyebrow" x="520" y="43">RANDOMIZED BLOCKS · FISHER, 1926</text>
+<rect class="dg-ill-fill" x="40" y="188" width="328" height="48" rx="4" stroke-opacity="0.35"/>
+<rect class="dg-ill-fill" x="492" y="204" width="328" height="48" rx="4" stroke-opacity="0.35"/>
+<rect class="dg-ill-soft" x="52" y="74" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="104" y="74" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="156" y="74" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="208" y="74" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="260" y="74" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="312" y="74" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="52" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="104" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="156" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="208" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="260" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="312" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="52" y="154" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="104" y="154" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="156" y="154" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="208" y="154" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="260" y="154" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="312" y="154" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="52" y="194" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="104" y="194" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="156" y="194" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="208" y="194" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="260" y="194" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="312" y="194" width="44" height="36" rx="3"/>
+<path class="dg-ill-fill-accent" d="M 54,156 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 106,156 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 158,156 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 210,156 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 262,156 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 314,156 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 54,196 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 106,196 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 158,196 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 210,196 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 262,196 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 314,196 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z"/>
+<rect class="dg-ill-soft" x="504" y="66" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="556" y="66" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="608" y="66" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="660" y="66" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="712" y="66" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="764" y="66" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="504" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="556" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="608" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="660" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="712" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="764" y="114" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="504" y="162" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="556" y="162" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="608" y="162" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="660" y="162" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="712" y="162" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="764" y="162" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="504" y="210" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="556" y="210" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="608" y="210" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="660" y="210" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="712" y="210" width="44" height="36" rx="3"/>
+<rect class="dg-ill-soft" x="764" y="210" width="44" height="36" rx="3"/>
+<path class="dg-ill-fill-accent" d="M 610,68 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 662,68 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 766,68 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 558,116 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 610,116 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 662,116 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 506,164 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 662,164 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 766,164 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 506,212 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 662,212 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z M 714,212 h 40 a 2 2 0 0 1 2 2 v 28 a 2 2 0 0 1 -2 2 h -40 a 2 2 0 0 1 -2 -2 v -28 a 2 2 0 0 1 2 -2 z"/>
+<text class="dg-sub" x="74" y="175">F</text>
+<text class="dg-sub" x="126" y="175">F</text>
+<text class="dg-sub" x="178" y="175">F</text>
+<text class="dg-sub" x="230" y="175">F</text>
+<text class="dg-sub" x="282" y="175">F</text>
+<text class="dg-sub" x="334" y="175">F</text>
+<text class="dg-sub" x="74" y="215">F</text>
+<text class="dg-sub" x="126" y="215">F</text>
+<text class="dg-sub" x="178" y="215">F</text>
+<text class="dg-sub" x="230" y="215">F</text>
+<text class="dg-sub" x="282" y="215">F</text>
+<text class="dg-sub" x="334" y="215">F</text>
+<rect class="dg-ill-ink" x="48" y="70" width="104" height="44" rx="6" stroke-dasharray="3 3"/>
+<text class="dg-sub" x="630" y="87">F</text>
+<text class="dg-sub" x="682" y="87">F</text>
+<text class="dg-sub" x="786" y="87">F</text>
+<text class="dg-sub" x="578" y="135">F</text>
+<text class="dg-sub" x="630" y="135">F</text>
+<text class="dg-sub" x="682" y="135">F</text>
+<text class="dg-sub" x="526" y="183">F</text>
+<text class="dg-sub" x="682" y="183">F</text>
+<text class="dg-sub" x="786" y="183">F</text>
+<text class="dg-sub" x="526" y="231">F</text>
+<text class="dg-sub" x="682" y="231">F</text>
+<text class="dg-sub" x="734" y="231">F</text>
+<rect class="dg-ill-ink" x="500" y="62" width="104" height="44" rx="6" stroke-dasharray="3 3"/>
+<text class="dg-note" x="428" y="87" text-anchor="start">BLOCK I</text>
+<text class="dg-note" x="428" y="135" text-anchor="start">BLOCK II</text>
+<text class="dg-note" x="428" y="183" text-anchor="start">BLOCK III</text>
+<text class="dg-note" x="428" y="231" text-anchor="start">BLOCK IV</text>
+<text class="dg-note" x="48" y="256" text-anchor="start">A DAMP CORNER (TOP LEFT) · A RICHER STRIP (BOTTOM)</text>
+<text class="dg-note" x="48" y="272" text-anchor="start">The fertilized plots line up with the richer strip:</text>
+<text class="dg-note" x="48" y="286" text-anchor="start">the fertilizer is credited for what the soil did.</text>
+<text class="dg-note" x="500" y="272" text-anchor="start">Each block is ground of one kind; within it, treatments</text>
+<text class="dg-note" x="500" y="286" text-anchor="start">are assigned “independently, and wholly at random”.</text>
+<text class="dg-note" x="500" y="300" text-anchor="start">Uneven by chance, but chance can be measured.</text>
+<line class="dg-rule" x1="24" y1="336" x2="840" y2="336"/>
+<rect class="dg-n dg-n-focal" x="24" y="347" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="355">Plot given the fertilizer (F)</text>
+<rect class="dg-n dg-n-backend" x="236" y="347" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="258" y="355">Richer ground</text>
+<rect class="dg-n dg-n-optional" x="358" y="347" width="16" height="10" rx="2" stroke-dasharray="4,3"/>
+<text class="dg-legend" x="380" y="355">A damp corner</text>
+</svg></div></div>

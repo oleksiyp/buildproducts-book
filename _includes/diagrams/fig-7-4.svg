@@ -1,0 +1,67 @@
+<div class="dg-figure" data-fig="fig-7-4" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 476" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-7-4-title fig-7-4-desc">
+<title id="fig-7-4-title">From local to shared in Setlist</title>
+<desc id="fig-7-4-desc">A flow in two lanes. In the top lane, owned by the team that built it: a team builds a component in its own code, in Setlist&#x27;s style; it registers it in the library as a pattern candidate, visible to every team but owned by its maker and with no promise of support; then the question is whether a second team needs it. If not, it stays a candidate and the core never absorbs it. If so, the flow moves to the bottom lane, owned by the Design System team: the two teams and the core review it against Setlist&#x27;s criteria (useful, unique, accessible to the component contract of Section 6.4, documented, and free of business logic), and then the core team takes ownership and releases it. Below, the Verified Resale example: VerifiedBadge and ReissueStatus began as candidates in the Resale team&#x27;s code during the prototype; Mobile App needed both for the app&#x27;s resale module and Fan Messaging needed ReissueStatus for the &#x27;your ticket sold&#x27; email; the accessibility review found that the badge conveyed &#x27;verified&#x27; by color and an icon alone, and the promoted version carries a visible label.</desc>
+<defs><marker id="fig-7-4-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-7-4-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-7-4-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="24" y="48" width="816" height="120" rx="8"/><rect class="dg-mask" x="36" y="42" width="180" height="12" rx="2"/><text class="dg-eyebrow" x="126" y="51">OWNED BY THE TEAM THAT BUILT IT</text>
+<rect class="dg-zone" x="24" y="200" width="816" height="120" rx="8"/><rect class="dg-mask" x="36" y="194" width="180" height="12" rx="2"/><text class="dg-eyebrow" x="126" y="203">OWNED BY THE DESIGN SYSTEM TEAM</text>
+<rect class="dg-zone" x="24" y="344" width="816" height="80" rx="8"/><rect class="dg-mask" x="36" y="338" width="220" height="12" rx="2"/><text class="dg-eyebrow" x="146" y="347">VERIFIED RESALE, TWICE THROUGH THE PATH</text>
+<path class="dg-a dg-a-muted" d="M 220,108 L 244,108" marker-end="url(#fig-7-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 420,108 L 444,108" marker-end="url(#fig-7-4-m-muted)"/>
+<path class="dg-a dg-a-muted dg-dash" d="M 620,108 L 644,108" marker-end="url(#fig-7-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 532,140 L 532,228" marker-end="url(#fig-7-4-m-muted)"/>
+<path class="dg-a dg-a-accent" d="M 620,260 L 644,260" marker-end="url(#fig-7-4-m-accent)"/>
+<rect class="dg-mask" x="622" y="88" width="20" height="12" rx="2"/><text class="dg-label" x="632" y="97">NO</text>
+<rect class="dg-mask" x="540" y="178" width="28" height="12" rx="2"/><text class="dg-label" x="554" y="187">YES</text>
+<rect class="dg-mask" x="44" y="76" width="176" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="44" y="76" width="176" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="52" y="82" width="72" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="88" y="91">1 · ONE TEAM</text>
+<text class="dg-name" x="132" y="114">Built locally</text>
+<text class="dg-sub" x="132" y="129">own code, Setlist&#x27;s style</text>
+<rect class="dg-mask" x="244" y="76" width="176" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="244" y="76" width="176" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="252" y="82" width="84" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="294" y="91">2 · REGISTERED</text>
+<text class="dg-name" x="332" y="114">Pattern candidate</text>
+<text class="dg-sub" x="332" y="129">visible to all · no support</text>
+<rect class="dg-mask" x="444" y="76" width="176" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="444" y="76" width="176" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="452" y="82" width="64" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="484" y="91">3 · DEMAND</text>
+<text class="dg-name" x="532" y="116">Second team needs it?</text>
+<rect class="dg-mask" x="644" y="76" width="176" height="64" rx="6"/>
+<rect class="dg-n dg-n-optional" x="644" y="76" width="176" height="64" rx="6" stroke-dasharray="4,3"/>
+<text class="dg-name" x="732" y="110">Stays a candidate</text>
+<text class="dg-sub" x="732" y="125">the core never absorbs it</text>
+<rect class="dg-mask" x="444" y="228" width="176" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="444" y="228" width="176" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="452" y="234" width="72" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="488" y="243">4 · CRITERIA</text>
+<text class="dg-name" x="532" y="266">Joint review</text>
+<text class="dg-sub" x="532" y="281">both teams and the core</text>
+<rect class="dg-mask" x="644" y="228" width="176" height="64" rx="6"/>
+<rect class="dg-n dg-n-focal" x="644" y="228" width="176" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-focal" x="652" y="234" width="72" height="12" rx="2"/>
+<text class="dg-tag dg-t-focal" x="688" y="243">5 · PROMOTED</text>
+<text class="dg-name" x="732" y="266">Core owns, releases</text>
+<text class="dg-sub" x="732" y="281">a shared Setlist component</text>
+<text class="dg-eyebrow" x="24" y="24" style="text-anchor:start">SETLIST'S CONTRIBUTION PATH · READ ALONG THE ARROWS</text>
+<text class="dg-eyebrow" x="420" y="234" style="text-anchor:end">SETLIST'S CRITERIA</text>
+<text class="dg-note" x="420" y="250" text-anchor="end">useful · unique</text>
+<text class="dg-note" x="420" y="263" text-anchor="end">accessible to the 6.4 contract</text>
+<text class="dg-note" x="420" y="276" text-anchor="end">documented</text>
+<text class="dg-note" x="420" y="289" text-anchor="end">free of business logic</text>
+<text class="dg-note" x="44" y="368" text-anchor="start">1–2 · VerifiedBadge and ReissueStatus begin as candidates in the Resale team&#x27;s code, in the prototype</text>
+<text class="dg-note" x="44" y="384" text-anchor="start">3 · Mobile App needs both for the app&#x27;s resale module; Fan Messaging needs ReissueStatus for &quot;your ticket sold&quot;</text>
+<text class="dg-note" x="44" y="400" text-anchor="start">4 · Review: the badge said &quot;verified&quot; by color and an icon alone; the promoted version carries a visible label</text>
+<line class="dg-rule" x1="24" y1="436" x2="840" y2="436"/>
+<rect class="dg-n dg-n-backend" x="24" y="447" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="455">Step</text>
+<rect class="dg-n dg-n-optional" x="96" y="447" width="16" height="10" rx="2" stroke-dasharray="4,3"/>
+<text class="dg-legend" x="118" y="455">Not promoted</text>
+<rect class="dg-n dg-n-focal" x="213" y="447" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="235" y="455">Shared, owned by the core</text>
+<line class="dg-a dg-a-accent" x1="403" y1="452" x2="427" y2="452" marker-end="url(#fig-7-4-m-accent)"/>
+<text class="dg-legend" x="435" y="455">Ownership moves to the core</text>
+</svg></div></div>

@@ -1,0 +1,94 @@
+<div class="dg-figure" data-fig="fig-10-1" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 528" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-10-1-title fig-10-1-desc">
+<title id="fig-10-1-title">Gmail&#x27;s launch, 2001 to 2012</title>
+<desc id="fig-10-1-desc">A schematic timeline from 2001 to 2012. Paul Buchheit began Gmail, code-named Caribou, in August 2001 and built a first searchable prototype in about a day; about a dozen people worked on it by launch, on about 300 old Pentium III machines nobody else at Google wanted. Google launched it on 1 April 2004, giving accounts to about 1,000 people outside the company, each able to invite a couple of friends; invitations later sold on eBay for $150 and more. On 6 April 2004, five days after launch, 31 organizations and advocates asked Google to suspend Gmail because it scanned mail to place ads, and California State Senator Liz Figueroa drafted a consent bill. The invitation gate lasted until sign-up opened to all on 14 February 2007. The beta label stayed on the logo until 7 July 2009, when Google removed it from Gmail, Calendar, Docs and Talk together, because business customers did not want something that sounded unfinished. By 2012 Gmail had 425 million active users. Below the timeline, the free storage offered in April 2004 is drawn to scale: Hotmail 2 MB and Yahoo Mail 4 MB are hairlines beside Gmail&#x27;s 1,000 MB, about 500 times Hotmail&#x27;s.</desc>
+<defs><marker id="fig-10-1-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-10-1-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-10-1-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<line class="dg-axis" x1="72" y1="184" x2="792" y2="184"/>
+<line class="dg-axis" x1="72" y1="184" x2="72" y2="188"/>
+<text class="dg-tick" x="72" y="200" text-anchor="middle">2001</text>
+<line class="dg-axis" x1="132" y1="184" x2="132" y2="188"/>
+<text class="dg-tick" x="132" y="200" text-anchor="middle">2002</text>
+<line class="dg-axis" x1="192" y1="184" x2="192" y2="188"/>
+<text class="dg-tick" x="192" y="200" text-anchor="middle">2003</text>
+<line class="dg-axis" x1="252" y1="184" x2="252" y2="188"/>
+<text class="dg-tick" x="252" y="200" text-anchor="middle">2004</text>
+<line class="dg-axis" x1="312" y1="184" x2="312" y2="188"/>
+<text class="dg-tick" x="312" y="200" text-anchor="middle">2005</text>
+<line class="dg-axis" x1="372" y1="184" x2="372" y2="188"/>
+<text class="dg-tick" x="372" y="200" text-anchor="middle">2006</text>
+<line class="dg-axis" x1="432" y1="184" x2="432" y2="188"/>
+<text class="dg-tick" x="432" y="200" text-anchor="middle">2007</text>
+<line class="dg-axis" x1="492" y1="184" x2="492" y2="188"/>
+<text class="dg-tick" x="492" y="200" text-anchor="middle">2008</text>
+<line class="dg-axis" x1="552" y1="184" x2="552" y2="188"/>
+<text class="dg-tick" x="552" y="200" text-anchor="middle">2009</text>
+<line class="dg-axis" x1="612" y1="184" x2="612" y2="188"/>
+<text class="dg-tick" x="612" y="200" text-anchor="middle">2010</text>
+<line class="dg-axis" x1="672" y1="184" x2="672" y2="188"/>
+<text class="dg-tick" x="672" y="200" text-anchor="middle">2011</text>
+<line class="dg-axis" x1="732" y1="184" x2="732" y2="188"/>
+<text class="dg-tick" x="732" y="200" text-anchor="middle">2012</text>
+<line class="dg-axis" x1="792" y1="184" x2="792" y2="188"/>
+<text class="dg-tick" x="792" y="200" text-anchor="middle">2013</text>
+<line class="dg-ill-soft" x1="106.8" y1="208" x2="106.8" y2="264"/>
+<line class="dg-ill-soft" x1="267.0" y1="208" x2="267.0" y2="278"/>
+<line class="dg-ill-soft" x1="439.2" y1="208" x2="439.2" y2="264"/>
+<line class="dg-ill-soft" x1="732.0" y1="208" x2="732.0" y2="264"/>
+<line class="dg-ill-link" x1="267.0" y1="208" x2="267.0" y2="376"/>
+<line class="dg-ill-soft" x1="582.6" y1="208" x2="582.6" y2="376"/>
+<rect class="dg-ill-fill" x="106.8" y="56" width="160.2" height="24" rx="3"/>
+<rect class="dg-ill-fill-accent" x="267.0" y="92" width="172.2" height="24" rx="3"/>
+<rect class="dg-ill-fill" x="267.0" y="128" width="315.6" height="24" rx="3"/>
+<circle class="dg-ill-fill" cx="106.8" cy="184" r="4"/>
+<circle class="dg-ill-fill" cx="267.0" cy="184" r="4"/>
+<circle class="dg-ill-fill" cx="439.2" cy="184" r="4"/>
+<circle class="dg-ill-fill" cx="582.6" cy="184" r="4"/>
+<circle class="dg-ill-fill" cx="732.0" cy="184" r="4"/>
+<rect class="dg-ill-fill" x="152" y="416" width="1.04" height="14"/>
+<rect class="dg-ill-fill" x="152" y="440" width="2.08" height="14"/>
+<rect class="dg-ill-fill-accent" x="152" y="464" width="520.00" height="14"/>
+<text class="dg-eyebrow" x="24" y="32" style="text-anchor:start">GMAIL, 2001–2012 · SCHEMATIC TIMELINE, YEARS TO SCALE</text>
+<text class="dg-label" x="186.9" y="71">CARIBOU, IN THE MAKING</text>
+<text class="dg-note" x="275" y="72" text-anchor="start">about a dozen people; ~300 old Pentium IIIs</text>
+<text class="dg-label" x="353.1" y="107">INVITATION GATE</text>
+<text class="dg-note" x="447" y="108" text-anchor="start">invitations sell on eBay for $150 and more</text>
+<text class="dg-label" x="424.8" y="143">BETA LABEL ON THE LOGO</text>
+<text class="dg-note" x="591" y="144" text-anchor="start">kept after sign-up opened</text>
+<text class="dg-label" x="114.8" y="232" style="text-anchor:start">AUG 2001</text>
+<text class="dg-note" x="115" y="248" text-anchor="start">Buchheit starts Caribou;</text>
+<text class="dg-note" x="115" y="262" text-anchor="start">prototype in about a day</text>
+<text class="dg-label" x="275.0" y="232" style="text-anchor:start">1 APR 2004 · LAUNCH</text>
+<text class="dg-note" x="275" y="248" text-anchor="start">1 GB free; ~1,000 outsiders,</text>
+<text class="dg-note" x="275" y="262" text-anchor="start">each invites a couple</text>
+<text class="dg-note" x="275" y="276" text-anchor="start">of friends</text>
+<text class="dg-label" x="447.2" y="232" style="text-anchor:start">14 FEB 2007</text>
+<text class="dg-note" x="447" y="248" text-anchor="start">sign-up open to all;</text>
+<text class="dg-note" x="447" y="262" text-anchor="start">the gate comes down</text>
+<text class="dg-label" x="740.0" y="232" style="text-anchor:start">2012</text>
+<text class="dg-note" x="740" y="248" text-anchor="start">425 million</text>
+<text class="dg-note" x="740" y="262" text-anchor="start">active users</text>
+<text class="dg-label dg-l-link" x="275.0" y="316" style="text-anchor:start">6 APR 2004 · FIVE DAYS IN</text>
+<text class="dg-note" x="275" y="332" text-anchor="start">31 organizations ask Google</text>
+<text class="dg-note" x="275" y="346" text-anchor="start">to suspend Gmail over ads</text>
+<text class="dg-note" x="275" y="360" text-anchor="start">beside scanned mail;</text>
+<text class="dg-note" x="275" y="374" text-anchor="start">Figueroa drafts a consent bill</text>
+<text class="dg-label" x="590.6" y="316" style="text-anchor:start">7 JUL 2009</text>
+<text class="dg-note" x="591" y="332" text-anchor="start">beta label removed, with</text>
+<text class="dg-note" x="591" y="346" text-anchor="start">Calendar, Docs and Talk;</text>
+<text class="dg-note" x="591" y="360" text-anchor="start">business customers had</text>
+<text class="dg-note" x="591" y="374" text-anchor="start">balked at &quot;unfinished&quot;</text>
+<text class="dg-eyebrow" x="24" y="400" style="text-anchor:start">FREE STORAGE OFFERED, APRIL 2004 · BARS TO SCALE</text>
+<text class="dg-note" x="140" y="426" text-anchor="end">Hotmail</text>
+<text class="dg-note" x="163" y="427" text-anchor="start">2 MB</text>
+<text class="dg-note" x="140" y="450" text-anchor="end">Yahoo Mail</text>
+<text class="dg-note" x="164" y="451" text-anchor="start">4 MB</text>
+<text class="dg-note" x="140" y="474" text-anchor="end">Gmail</text>
+<text class="dg-note" x="682" y="475" text-anchor="start">1,000 MB · about 500 × Hotmail</text>
+<line class="dg-rule" x1="24" y1="488" x2="840" y2="488"/>
+<rect class="dg-n dg-n-backend" x="24" y="499" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="507">Span or event</text>
+<rect class="dg-n dg-n-focal" x="146" y="499" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="168" y="507">The gate, and the offer behind it</text>
+<line class="dg-a dg-a-link" x1="380" y1="504" x2="404" y2="504" marker-end="url(#fig-10-1-m-link)"/>
+<text class="dg-legend" x="412" y="507">The outside objection</text>
+</svg></div></div>

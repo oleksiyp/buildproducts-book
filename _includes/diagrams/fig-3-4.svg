@@ -1,0 +1,62 @@
+<div class="dg-figure" data-fig="fig-3-4" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 448" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-3-4-title fig-3-4-desc">
+<title id="fig-3-4-title">Encore&#x27;s Wizard of Oz</title>
+<desc id="fig-3-4-desc">Two lanes. In front of the curtain everything a fan touched was real, at four shows in Lyon and Antwerp: the seller lists through &#x27;Resell this ticket&#x27; in My Tickets; the buyer, screened by Bot Screening and the per-buyer limits as in a primary sale, pays face value plus a 10% fee, shown in the all-in price, and the payment is only authorized; it is captured only after the reissue; the buyer then enters with the new barcode. Behind the curtain a rota of four Support agents did the work for each sale: check that the seller bought through the Sale Gate within the per-fan limit; check the promoter&#x27;s rules, resale closing 24 hours before doors and two tickets per fan; cancel the seller&#x27;s ticket and issue a new one with Support&#x27;s old lost-ticket replacement screen; and confirm the old ticket is on the show&#x27;s revocation list. If no reissue is done within 12 hours, the authorization lapses and the listing returns. Sellers were paid by hand after the show.</desc>
+<defs><marker id="fig-3-4-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-3-4-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-3-4-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="16" y="56" width="832" height="136" rx="8"/><rect class="dg-mask" x="28" y="50" width="336" height="12" rx="2"/><text class="dg-eyebrow" x="196" y="59">IN FRONT · REAL SCREENS, REAL MONEY, REAL GATES · FOUR SHOWS</text>
+<rect class="dg-zone" x="16" y="252" width="832" height="92" rx="8"/><rect class="dg-mask" x="240" y="246" width="328" height="12" rx="2"/><text class="dg-eyebrow" x="404" y="255">BEHIND THE CURTAIN · A ROTA OF FOUR SUPPORT AGENTS, BY HAND</text>
+<path class="dg-a dg-a-muted" d="M 204,144 L 236,144" marker-end="url(#fig-3-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 628,144 L 660,144" marker-end="url(#fig-3-4-m-muted)"/>
+<path class="dg-a dg-a-muted dg-dash" d="M 326,112 L 326,88 Q 326,80 318,80 L 122,80 Q 114,80 114,88 L 114,112" marker-end="url(#fig-3-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 326,172 L 326,216 Q 326,224 318,224 L 122,224 Q 114,224 114,232 L 114,276" marker-end="url(#fig-3-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 204,308 L 236,308" marker-end="url(#fig-3-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 416,308 L 448,308" marker-end="url(#fig-3-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 628,308 L 660,308" marker-end="url(#fig-3-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 750,276 L 750,232 Q 750,224 742,224 L 546,224 Q 538,224 538,216 L 538,172" marker-end="url(#fig-3-4-m-muted)"/>
+<rect class="dg-mask" x="120" y="88" width="200" height="12" rx="2"/><text class="dg-label" x="220" y="97">NO REISSUE IN 12 H: LISTING RETURNS</text>
+<rect class="dg-mask" x="174" y="204" width="92" height="12" rx="2"/><text class="dg-label" x="220" y="213">SALE AUTHORIZED</text>
+<rect class="dg-mask" x="592" y="204" width="104" height="12" rx="2"/><text class="dg-label" x="644" y="213">REISSUE CONFIRMED</text>
+<rect class="dg-mask" x="24" y="112" width="180" height="60" rx="6"/>
+<rect class="dg-n dg-n-backend" x="24" y="112" width="180" height="60" rx="6"/>
+<text class="dg-name" x="114" y="144">Seller lists</text>
+<text class="dg-sub" x="114" y="159">My Tickets: Resell this ticket</text>
+<rect class="dg-mask" x="236" y="112" width="180" height="60" rx="6"/>
+<rect class="dg-n dg-n-backend" x="236" y="112" width="180" height="60" rx="6"/>
+<text class="dg-name" x="326" y="144">Buyer screened, pays</text>
+<text class="dg-sub" x="326" y="159">face value + 10%, authorized</text>
+<rect class="dg-mask" x="448" y="112" width="180" height="60" rx="6"/>
+<rect class="dg-n dg-n-focal" x="448" y="112" width="180" height="60" rx="6"/>
+<text class="dg-name" x="538" y="144">Payment captured</text>
+<text class="dg-sub" x="538" y="159">only after the reissue</text>
+<rect class="dg-mask" x="660" y="112" width="180" height="60" rx="6"/>
+<rect class="dg-n dg-n-backend" x="660" y="112" width="180" height="60" rx="6"/>
+<text class="dg-name" x="750" y="144">Buyer enters</text>
+<text class="dg-sub" x="750" y="159">new barcode at the gate</text>
+<rect class="dg-mask" x="24" y="276" width="180" height="60" rx="6"/>
+<rect class="dg-n dg-n-backend" x="24" y="276" width="180" height="60" rx="6"/>
+<text class="dg-name" x="114" y="308">Check the seller</text>
+<text class="dg-sub" x="114" y="323">bought via Sale Gate, in limit</text>
+<rect class="dg-mask" x="236" y="276" width="180" height="60" rx="6"/>
+<rect class="dg-n dg-n-backend" x="236" y="276" width="180" height="60" rx="6"/>
+<text class="dg-name" x="326" y="308">Check promoter rules</text>
+<text class="dg-sub" x="326" y="323">24 h before doors · 2 per fan</text>
+<rect class="dg-mask" x="448" y="276" width="180" height="60" rx="6"/>
+<rect class="dg-n dg-n-focal" x="448" y="276" width="180" height="60" rx="6"/>
+<text class="dg-name" x="538" y="308">Cancel and reissue</text>
+<text class="dg-sub" x="538" y="323">old lost-ticket screen</text>
+<rect class="dg-mask" x="660" y="276" width="180" height="60" rx="6"/>
+<rect class="dg-n dg-n-backend" x="660" y="276" width="180" height="60" rx="6"/>
+<text class="dg-name" x="750" y="308">Confirm revocation</text>
+<text class="dg-sub" x="750" y="323">old ticket on the show&#x27;s list</text>
+<text class="dg-note" x="24" y="368" text-anchor="start">The barcode core had no notion of transfer, so a careful person with an old admin screen did the reissue.</text>
+<text class="dg-note" x="24" y="382" text-anchor="start">Sellers were paid by hand after the show.</text>
+<line class="dg-rule" x1="24" y1="408" x2="840" y2="408"/>
+<rect class="dg-n dg-n-backend" x="24" y="419" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="427">Step</text>
+<rect class="dg-n dg-n-focal" x="96" y="419" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="118" y="427">The two safeguards: capture after reissue, reissue by hand</text>
+<line class="dg-a dg-a-muted" x1="470" y1="424" x2="494" y2="424" marker-end="url(#fig-3-4-m-muted)"/>
+<text class="dg-legend" x="502" y="427">Flow of one resale</text>
+<line class="dg-a dg-a-muted dg-dash" x1="630" y1="424" x2="654" y2="424" marker-end="url(#fig-3-4-m-muted)"/>
+<text class="dg-legend" x="662" y="427">Timeout</text>
+</svg></div></div>

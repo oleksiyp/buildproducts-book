@@ -1,0 +1,94 @@
+<div class="dg-figure" data-fig="fig-10-2" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 448" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-10-2-title fig-10-2-desc">
+<title id="fig-10-2-title">The memo at five checkpoints</title>
+<desc id="fig-10-2-desc">Five checkpoints left to right, each a rereading of the Verified Resale bet memo. Section 10.1, the bet: month 0, late winter of year 9, revision 0; memo written, first tranche funds discovery; kill criteria K1 and K2 written; taught in this book&#x27;s Chapters 1 to 5 and the Software book&#x27;s Sections 10.4 and 9.2 to 9.3. Section 10.2, designing it: month 4, late spring, revision 1; K1 passed; discovery done, decision to build, Resale team formed, 23 dependencies; this book&#x27;s Chapters 6 to 9, the Software book&#x27;s Sections 9.5, 7.3 and 8.2 to 8.3. Section 10.3, building it: month 9, autumn, revision 2; walking skeleton on the golden path, Rowmate certifying, 14 dependencies; this book&#x27;s Sections 2.5, 3.1 and 3.4, the Software book&#x27;s Sections 11.1 to 11.3. Section 10.4, launching it: month 12, winter of year 10, revision 3; three organizers, Rowmate, one market (France); this book&#x27;s Section 4.5 and Chapters 8 and 9, the Software book&#x27;s Section 11.4. Section 10.5, what Encore learned: month 18, summer of year 10, the memo&#x27;s review; K2 not triggered; Rowmate and Tessera live; this book&#x27;s Sections 3.1 and 5.5, the Software book&#x27;s Section 11.5. A bracket over the first four marks the appetite: 12 months from the memo to the first resold ticket scanned at a gate.</desc>
+<defs><marker id="fig-10-2-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-10-2-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-10-2-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<path class="dg-ill-soft" d="M 104,64 V 56 H 596 V 64"/>
+<rect class="dg-zone" x="20" y="300" width="824" height="44" rx="8"/><rect class="dg-mask" x="32" y="294" width="152" height="12" rx="2"/><text class="dg-eyebrow" x="108" y="303">WHERE THIS BOOK TEACHES IT</text>
+<rect class="dg-zone" x="20" y="360" width="824" height="44" rx="8"/><rect class="dg-mask" x="32" y="354" width="184" height="12" rx="2"/><text class="dg-eyebrow" x="124" y="363">WHERE THE SOFTWARE BOOK TELLS IT</text>
+<path class="dg-a dg-a-muted" d="M 180,116 L 192,116" marker-end="url(#fig-10-2-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 344,116 L 356,116" marker-end="url(#fig-10-2-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 508,116 L 520,116" marker-end="url(#fig-10-2-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 672,116 L 684,116" marker-end="url(#fig-10-2-m-muted)"/>
+<rect class="dg-mask" x="168" y="40" width="364" height="12" rx="2"/><text class="dg-label" x="350" y="49">APPETITE · 12 MONTHS TO THE FIRST RESOLD TICKET SCANNED AT A GATE</text>
+<rect class="dg-mask" x="28" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-n dg-n-focal" x="28" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-focal" x="36" y="90" width="84" height="12" rx="2"/>
+<text class="dg-tag dg-t-focal" x="78" y="99">10.1 · MONTH 0</text>
+<text class="dg-name" x="104" y="122">The bet</text>
+<text class="dg-sub" x="104" y="137">late winter, year 9</text>
+<path class="dg-ill-ink" d="M 36,164 h 12 l 6,6 v 18 h -18 z M 48,164 v 6 h 6"/><path class="dg-ill-soft" d="M 40,176 h 10 M 40,180 h 10 M 40,184 h 6"/>
+<rect class="dg-mask" x="192" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="192" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="200" y="90" width="84" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="242" y="99">10.2 · MONTH 4</text>
+<text class="dg-name" x="268" y="122">Designing it</text>
+<text class="dg-sub" x="268" y="137">late spring</text>
+<path class="dg-ill-ink" d="M 200,164 h 12 l 6,6 v 18 h -18 z M 212,164 v 6 h 6"/><path class="dg-ill-soft" d="M 204,176 h 10 M 204,180 h 10 M 204,184 h 6"/>
+<rect class="dg-mask" x="356" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="356" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="364" y="90" width="84" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="406" y="99">10.3 · MONTH 9</text>
+<text class="dg-name" x="432" y="122">Building it</text>
+<text class="dg-sub" x="432" y="137">autumn</text>
+<path class="dg-ill-ink" d="M 364,164 h 12 l 6,6 v 18 h -18 z M 376,164 v 6 h 6"/><path class="dg-ill-soft" d="M 368,176 h 10 M 368,180 h 10 M 368,184 h 6"/>
+<rect class="dg-mask" x="520" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="520" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="528" y="90" width="88" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="572" y="99">10.4 · MONTH 12</text>
+<text class="dg-name" x="596" y="122">Launching it</text>
+<text class="dg-sub" x="596" y="137">winter, year 10</text>
+<path class="dg-ill-ink" d="M 528,164 h 12 l 6,6 v 18 h -18 z M 540,164 v 6 h 6"/><path class="dg-ill-soft" d="M 532,176 h 10 M 532,180 h 10 M 532,184 h 6"/>
+<rect class="dg-mask" x="684" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-n dg-n-focal" x="684" y="84" width="152" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-focal" x="692" y="90" width="88" height="12" rx="2"/>
+<text class="dg-tag dg-t-focal" x="736" y="99">10.5 · MONTH 18</text>
+<text class="dg-name" x="760" y="122">What Encore learned</text>
+<text class="dg-sub" x="760" y="137">summer, year 10</text>
+<path class="dg-ill-ink" d="M 692,164 h 12 l 6,6 v 18 h -18 z M 704,164 v 6 h 6"/><path class="dg-ill-soft" d="M 696,176 h 10 M 696,180 h 10 M 696,184 h 6"/>
+<text class="dg-eyebrow" x="24" y="28" style="text-anchor:start">VERIFIED RESALE · ONE BET MEMO, REREAD AT FIVE CHECKPOINTS</text>
+<text class="dg-label" x="64" y="174" style="text-anchor:start">REVISION 0</text>
+<text class="dg-note" x="64" y="187" text-anchor="start">K1, K2 written</text>
+<text class="dg-note" x="36" y="220" text-anchor="start">Memo written;</text>
+<text class="dg-note" x="36" y="234" text-anchor="start">first tranche funds</text>
+<text class="dg-note" x="36" y="248" text-anchor="start">discovery</text>
+<text class="dg-note" x="36" y="318" text-anchor="start">Chapters 1–5</text>
+<text class="dg-note" x="36" y="378" text-anchor="start">Sections 10.4, 9.2–9.3</text>
+<text class="dg-label" x="228" y="174" style="text-anchor:start">REVISION 1</text>
+<text class="dg-note" x="228" y="187" text-anchor="start">K1 passed</text>
+<text class="dg-note" x="200" y="220" text-anchor="start">Discovery done;</text>
+<text class="dg-note" x="200" y="234" text-anchor="start">decision to build;</text>
+<text class="dg-note" x="200" y="248" text-anchor="start">Resale team formed;</text>
+<text class="dg-note" x="200" y="262" text-anchor="start">23 dependencies</text>
+<text class="dg-note" x="200" y="318" text-anchor="start">Chapters 6–9</text>
+<text class="dg-note" x="200" y="378" text-anchor="start">Sections 9.5, 7.3,</text>
+<text class="dg-note" x="200" y="391" text-anchor="start">8.2–8.3</text>
+<text class="dg-label" x="392" y="174" style="text-anchor:start">REVISION 2</text>
+<text class="dg-note" x="364" y="220" text-anchor="start">Walking skeleton on</text>
+<text class="dg-note" x="364" y="234" text-anchor="start">the golden path;</text>
+<text class="dg-note" x="364" y="248" text-anchor="start">Rowmate certifying;</text>
+<text class="dg-note" x="364" y="262" text-anchor="start">14 dependencies</text>
+<text class="dg-note" x="364" y="318" text-anchor="start">Sections 2.5, 3.1, 3.4</text>
+<text class="dg-note" x="364" y="378" text-anchor="start">Sections 11.1–11.3</text>
+<text class="dg-label" x="556" y="174" style="text-anchor:start">REVISION 3</text>
+<text class="dg-note" x="528" y="220" text-anchor="start">Three organizers,</text>
+<text class="dg-note" x="528" y="234" text-anchor="start">Rowmate, one market</text>
+<text class="dg-note" x="528" y="248" text-anchor="start">(France)</text>
+<text class="dg-note" x="528" y="318" text-anchor="start">Section 4.5,</text>
+<text class="dg-note" x="528" y="331" text-anchor="start">Chapters 8–9</text>
+<text class="dg-note" x="528" y="378" text-anchor="start">Section 11.4</text>
+<text class="dg-label" x="720" y="174" style="text-anchor:start">THE REVIEW</text>
+<text class="dg-note" x="720" y="187" text-anchor="start">K2 not triggered</text>
+<text class="dg-note" x="692" y="220" text-anchor="start">The memo&#x27;s review;</text>
+<text class="dg-note" x="692" y="234" text-anchor="start">Rowmate and Tessera</text>
+<text class="dg-note" x="692" y="248" text-anchor="start">live</text>
+<text class="dg-note" x="692" y="318" text-anchor="start">Sections 3.1, 5.5</text>
+<text class="dg-note" x="692" y="378" text-anchor="start">Section 11.5</text>
+<line class="dg-rule" x1="24" y1="408" x2="840" y2="408"/>
+<rect class="dg-n dg-n-focal" x="24" y="419" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="427">Where the bet is made and judged</text>
+<rect class="dg-n dg-n-backend" x="253" y="419" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="275" y="427">Checkpoint, by section of this chapter</text>
+<line class="dg-a dg-a-muted" x1="515" y1="424" x2="539" y2="424" marker-end="url(#fig-10-2-m-muted)"/>
+<text class="dg-legend" x="547" y="427">Time</text>
+</svg></div></div>

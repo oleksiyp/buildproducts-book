@@ -1,0 +1,78 @@
+<div class="dg-figure" data-fig="fig-5-5" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 468" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-5-5-title fig-5-5-desc">
+<title id="fig-5-5-title">From reissue to invoice</title>
+<desc id="fig-5-5-desc">Top left, a listing&#x27;s lifecycle: listed, reserved, sold, reissued. The partner&#x27;s commission is accrued at the sale, but billing starts only at the reissue, when the seller&#x27;s old barcode has been revoked and the buyer&#x27;s issued. Only then does the Resale service emit ResaleCompleted, a usage event written once with an idempotency key, which carries the facts of the sale and none of the money. Rating applies to it the entry of the bitemporal price book, recorded with a valid-from date and a recorded-at date, that was in force on the event&#x27;s date. From the rated event three documents are derived: the organizer&#x27;s payout line for its three points, the partner&#x27;s monthly statement line for its four points, and the finance ledger, reconciled daily. The seller is paid, and the partner&#x27;s commission released, five days after the event. Four checks run every night: one rated line per event and one event per line; the parts sum to the buyer&#x27;s total, €66 being €60 to the seller plus three shares of the fee; the day&#x27;s billing splits equal the day&#x27;s ledger entries; and each line was rated by the price-book entry valid on its date.</desc>
+<defs><marker id="fig-5-5-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-5-5-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-5-5-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="12" y="56" width="612" height="92" rx="8"/><rect class="dg-mask" x="24" y="50" width="204" height="12" rx="2"/><text class="dg-eyebrow" x="126" y="59">RESALE LIFECYCLE · SOFTWARE BOOK 8.2</text>
+<rect class="dg-zone" x="12" y="192" width="396" height="184" rx="8"/><rect class="dg-mask" x="24" y="186" width="88" height="12" rx="2"/><text class="dg-eyebrow" x="68" y="195">NIGHTLY CHECKS</text>
+<path class="dg-a dg-a-muted" d="M 152,104 L 176,104" marker-end="url(#fig-5-5-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 304,104 L 328,104" marker-end="url(#fig-5-5-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 456,104 L 480,104" marker-end="url(#fig-5-5-m-muted)"/>
+<path class="dg-a dg-a-accent" d="M 544,132 L 544,192" marker-end="url(#fig-5-5-m-accent)"/>
+<path class="dg-a dg-a-muted" d="M 752,132 L 752,192" marker-end="url(#fig-5-5-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 640,224 L 664,224" marker-end="url(#fig-5-5-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 752,256 L 752,288 Q 752,296 744,296 L 504,296 Q 496,296 496,304 L 496,336" marker-end="url(#fig-5-5-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 752,256 L 752,288 Q 752,296 744,296 L 644,296 Q 636,296 636,304 L 636,336" marker-end="url(#fig-5-5-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 752,256 L 752,288 Q 752,296 760,296 L 768,296 Q 776,296 776,304 L 776,336" marker-end="url(#fig-5-5-m-muted)"/>
+<rect class="dg-mask" x="552" y="156" width="92" height="12" rx="2"/><text class="dg-label dg-l-accent" x="598" y="165">BILL AT REISSUE</text>
+<rect class="dg-mask" x="24" y="76" width="128" height="56" rx="8"/>
+<rect class="dg-n dg-n-backend" x="24" y="76" width="128" height="56" rx="8"/>
+<text class="dg-name" x="88" y="108">Listed</text>
+<rect class="dg-mask" x="176" y="76" width="128" height="56" rx="8"/>
+<rect class="dg-n dg-n-backend" x="176" y="76" width="128" height="56" rx="8"/>
+<text class="dg-name" x="240" y="108">Reserved</text>
+<rect class="dg-mask" x="328" y="76" width="128" height="56" rx="8"/>
+<rect class="dg-n dg-n-backend" x="328" y="76" width="128" height="56" rx="8"/>
+<text class="dg-name" x="392" y="102">Sold</text>
+<text class="dg-sub" x="392" y="116">commission accrued</text>
+<rect class="dg-mask" x="480" y="76" width="128" height="56" rx="8"/>
+<rect class="dg-n dg-n-focal" x="480" y="76" width="128" height="56" rx="8"/>
+<text class="dg-name" x="544" y="102">Reissued</text>
+<text class="dg-sub" x="544" y="116">old barcode revoked</text>
+<rect class="dg-mask" x="664" y="76" width="176" height="56" rx="6"/>
+<rect class="dg-n dg-n-store" x="664" y="76" width="176" height="56" rx="6"/>
+<rect class="dg-tagbox dg-t-store" x="672" y="82" width="64" height="12" rx="2"/>
+<text class="dg-tag dg-t-store" x="704" y="91">BITEMPORAL</text>
+<text class="dg-name" x="752" y="110">Price book</text>
+<text class="dg-sub" x="752" y="125">valid_from · recorded_at</text>
+<rect class="dg-mask" x="448" y="192" width="192" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="448" y="192" width="192" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="456" y="198" width="68" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="490" y="207">USAGE EVENT</text>
+<text class="dg-name" x="544" y="230">ResaleCompleted</text>
+<text class="dg-sub" x="544" y="245">idempotency key · no money</text>
+<rect class="dg-mask" x="664" y="192" width="176" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="664" y="192" width="176" height="64" rx="6"/>
+<text class="dg-name" x="752" y="226">Rating</text>
+<text class="dg-sub" x="752" y="241">price in force that day</text>
+<rect class="dg-mask" x="432" y="336" width="128" height="56" rx="6"/>
+<rect class="dg-n dg-n-backend" x="432" y="336" width="128" height="56" rx="6"/>
+<text class="dg-name" x="496" y="366">Payout line</text>
+<text class="dg-sub" x="496" y="381">organizer · 3 pts</text>
+<rect class="dg-mask" x="572" y="336" width="128" height="56" rx="6"/>
+<rect class="dg-n dg-n-backend" x="572" y="336" width="128" height="56" rx="6"/>
+<text class="dg-name" x="636" y="366">Statement line</text>
+<text class="dg-sub" x="636" y="381">partner · 4 pts</text>
+<rect class="dg-mask" x="712" y="336" width="128" height="56" rx="6"/>
+<rect class="dg-n dg-n-store" x="712" y="336" width="128" height="56" rx="6"/>
+<text class="dg-name" x="776" y="366">Finance ledger</text>
+<text class="dg-sub" x="776" y="381">reconciled daily</text>
+<text class="dg-eyebrow" x="24" y="32" style="text-anchor:start">ONE RESALE · FACTS IN THE EVENT, PRICES IN THE BOOK, DOCUMENTS DERIVED FROM BOTH</text>
+<text class="dg-note" x="432" y="412" text-anchor="start">seller paid, and partner commission released, five days after the event</text>
+<text class="dg-note" x="28" y="224" xml:space="preserve">1 · one rated line per event, one event per line</text>
+<text class="dg-note" x="28" y="244" xml:space="preserve">2 · the parts sum to the buyer's total:</text>
+<text class="dg-note" x="28" y="264" xml:space="preserve">    €66 = €60 to the seller + three shares</text>
+<text class="dg-note" x="28" y="284" xml:space="preserve">3 · the day's billing splits = the day's ledger</text>
+<text class="dg-note" x="28" y="304" xml:space="preserve">4 · each line rated by the entry valid on its date</text>
+<text class="dg-note" x="28" y="336" text-anchor="start">every number paid out can be recomputed</text>
+<text class="dg-note" x="28" y="352" text-anchor="start">from the events and the price book as they stood</text>
+<line class="dg-rule" x1="24" y1="428" x2="840" y2="428"/>
+<rect class="dg-n dg-n-focal" x="24" y="439" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="447">Where billing starts</text>
+<rect class="dg-n dg-n-backend" x="186" y="439" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="208" y="447">Event, step or document</text>
+<rect class="dg-n dg-n-store" x="364" y="439" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="386" y="447">Price book and ledger</text>
+<line class="dg-a dg-a-accent" x1="531" y1="444" x2="555" y2="444" marker-end="url(#fig-5-5-m-accent)"/>
+<text class="dg-legend" x="563" y="447">The billable fact is emitted</text>
+</svg></div></div>

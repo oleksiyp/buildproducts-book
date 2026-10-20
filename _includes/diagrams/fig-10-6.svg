@@ -1,0 +1,57 @@
+<div class="dg-figure" data-fig="fig-10-6" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 264" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-10-6-title fig-10-6-desc">
+<title id="fig-10-6-title">The review&#x27;s two numbers</title>
+<desc id="fig-10-6-desc">Left: completed verified resales per eligible event in France at month 18. The average was 34, above the memo&#x27;s month-18 target of 30, but the median was 11, because a handful of arena nights produced most of the resales; kill criterion K2 fires below 10. Right: the synthetic control&#x27;s estimate of the change in primary sell-through on resale-enabled events, a fall of 0.4 points, with an interval from a fall of 1.3 points to a rise of 0.5. The whole interval lies above the guardrail of no worse than minus 2.0 points, so the guardrail held, but the interval does not rule out a small harm.</desc>
+<defs><marker id="fig-10-6-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-10-6-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-10-6-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<line class="dg-axis" x1="96" y1="176" x2="416" y2="176"/>
+<line class="dg-axis" x1="96" y1="176" x2="96" y2="56"/>
+<line class="dg-axis" x1="96.0" y1="176" x2="96.0" y2="180"/>
+<text class="dg-tick" x="96.0" y="192" text-anchor="middle">0</text>
+<line class="dg-axis" x1="176.0" y1="176" x2="176.0" y2="180"/>
+<text class="dg-tick" x="176.0" y="192" text-anchor="middle">10</text>
+<line class="dg-axis" x1="256.0" y1="176" x2="256.0" y2="180"/>
+<text class="dg-tick" x="256.0" y="192" text-anchor="middle">20</text>
+<line class="dg-axis" x1="336.0" y1="176" x2="336.0" y2="180"/>
+<text class="dg-tick" x="336.0" y="192" text-anchor="middle">30</text>
+<line class="dg-axis" x1="416.0" y1="176" x2="416.0" y2="180"/>
+<text class="dg-tick" x="416.0" y="192" text-anchor="middle">40</text>
+<line class="dg-axis" x1="488" y1="176" x2="832" y2="176"/>
+<line class="dg-axis" x1="488" y1="176" x2="488" y2="56"/>
+<line class="dg-axis" x1="537.1" y1="176" x2="537.1" y2="180"/>
+<text class="dg-tick" x="537.1" y="192" text-anchor="middle">-2</text>
+<line class="dg-axis" x1="635.4" y1="176" x2="635.4" y2="180"/>
+<text class="dg-tick" x="635.4" y="192" text-anchor="middle">-1</text>
+<line class="dg-axis" x1="733.7" y1="176" x2="733.7" y2="180"/>
+<text class="dg-tick" x="733.7" y="192" text-anchor="middle">0</text>
+<line class="dg-axis" x1="832.0" y1="176" x2="832.0" y2="180"/>
+<text class="dg-tick" x="832.0" y="192" text-anchor="middle">+1</text>
+<rect class="dg-mask" x="224.0" y="45.0" width="108" height="12" rx="2"/><text class="dg-label" x="278.0" y="54.0">MONTH-18 TARGET 30</text>
+<rect class="dg-mask" x="68.0" y="45.0" width="104" height="12" rx="2"/><text class="dg-label" x="120.0" y="54.0">K2 FIRES BELOW 10</text>
+<rect class="dg-mask" x="541.1" y="45.0" width="88" height="12" rx="2"/><text class="dg-label" x="585.1" y="54.0">GUARDRAIL −2.0</text>
+<rect class="dg-mask" x="674.4" y="95.0" width="56" height="12" rx="2"/><text class="dg-label" x="702.4" y="104.0">−0.4 PTS</text>
+<rect class="dg-mask" x="589.9" y="129.0" width="32" height="12" rx="2"/><text class="dg-label" x="605.9" y="138.0">−1.3</text>
+<rect class="dg-mask" x="766.9" y="129.0" width="32" height="12" rx="2"/><text class="dg-label" x="782.9" y="138.0">+0.5</text>
+<rect class="dg-ill-fill" x="96.0" y="86.0" width="272.0" height="20"/>
+<rect class="dg-ill-fill" x="96.0" y="126.0" width="88.0" height="20"/>
+<line class="dg-series dg-s-ink" x1="336.0" y1="56" x2="336.0" y2="176" stroke-dasharray="5 4"/>
+<line class="dg-series dg-s-soft" x1="176.0" y1="56" x2="176.0" y2="176" stroke-dasharray="5 4"/>
+<line class="dg-series dg-s-soft" x1="733.7" y1="56" x2="733.7" y2="176"/>
+<line class="dg-series dg-s-accent" x1="537.1" y1="56" x2="537.1" y2="176" stroke-dasharray="5 4"/>
+<line class="dg-series dg-s-ink" x1="605.9" y1="116.0" x2="782.9" y2="116.0"/>
+<line class="dg-series dg-s-ink" x1="605.9" y1="110.0" x2="605.9" y2="122.0"/>
+<line class="dg-series dg-s-ink" x1="782.9" y1="110.0" x2="782.9" y2="122.0"/>
+<circle class="dg-dot dg-dot-accent" cx="694.4" cy="116.0" r="5"/>
+<text class="dg-eyebrow" x="24" y="28" style="text-anchor:start">NORTH STAR · COMPLETED RESALES PER ELIGIBLE EVENT</text>
+<text class="dg-eyebrow" x="472" y="28" style="text-anchor:start">GUARDRAIL · CHANGE IN PRIMARY SELL-THROUGH (PTS)</text>
+<text class="dg-note" x="88" y="100" text-anchor="end">Average</text>
+<text class="dg-note" x="374" y="100" text-anchor="start">34</text>
+<text class="dg-note" x="88" y="140" text-anchor="end">Median</text>
+<text class="dg-note" x="190" y="140" text-anchor="start">11</text>
+<text class="dg-note" x="472" y="216" text-anchor="start">Guardrail held; the interval cannot rule out a small harm.</text>
+<text class="dg-note" x="24" y="216" text-anchor="start">Average above target; the median shows how narrow the reach was.</text>
+<line class="dg-rule" x1="24" y1="224" x2="840" y2="224"/>
+<rect class="dg-n dg-n-backend" x="24" y="235" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="243">Measured at month 18</text>
+<line class="dg-a dg-a-accent" x1="186" y1="240" x2="210" y2="240" marker-end="url(#fig-10-6-m-accent)"/>
+<text class="dg-legend" x="218" y="243">The memo&#x27;s guardrail and the estimate</text>
+</svg></div></div>

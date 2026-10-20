@@ -1,0 +1,81 @@
+<div class="dg-figure" data-fig="fig-5-1" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 444" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-5-1-title fig-5-1-desc">
+<title id="fig-5-1-title">Amazon&#x27;s DVD price test, 2000</title>
+<desc id="fig-5-1-desc">Schematic. Top: two browser windows open on amazon.com at the same moment, each showing the DVD of Men in Black, one of the 68 titles in the test. Computerworld reported the title at $25.97 in Netscape and $23.97 in Internet Explorer, two dollars apart. Bottom, the episode in five steps: in September 2000 a five-day test set the discount on each title at random between 20% and 40%; customers on an online fan forum compared notes and found the same disc at different prices, and suspected that loyal customers paid more than new ones; Amazon&#x27;s first explanation, routine tests of the navigation, site design and product pricing, satisfied nobody; by 14 September it had refunded 6,896 customers an average of $3.10, a little over $21,000 in all; and its statement of 27 September called the test a mistake and promised that in any future test every buyer would automatically receive the lowest test price.</desc>
+<defs><marker id="fig-5-1-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-5-1-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-5-1-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<path class="dg-a dg-a-muted" d="M 168,324 L 192,324" marker-end="url(#fig-5-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 336,324 L 360,324" marker-end="url(#fig-5-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 504,324 L 528,324" marker-end="url(#fig-5-1-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 672,324 L 696,324" marker-end="url(#fig-5-1-m-muted)"/>
+<rect class="dg-mask" x="24" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="24" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="32" y="294" width="84" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="74" y="303">SEPTEMBER 2000</text>
+<text class="dg-name" x="96" y="326">Five-day test</text>
+<text class="dg-sub" x="96" y="341">68 DVD titles</text>
+<rect class="dg-mask" x="192" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="192" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="200" y="294" width="96" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="248" y="303">ONLINE FAN FORUM</text>
+<text class="dg-name" x="264" y="326">Notes compared</text>
+<text class="dg-sub" x="264" y="341">same disc, two prices</text>
+<rect class="dg-mask" x="360" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="360" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="368" y="294" width="100" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="418" y="303">FIRST EXPLANATION</text>
+<text class="dg-name" x="432" y="326">“Routine tests”</text>
+<text class="dg-sub" x="432" y="341">of the whole site</text>
+<rect class="dg-mask" x="528" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-n dg-n-backend" x="528" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="536" y="294" width="88" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="580" y="303">BY 14 SEPTEMBER</text>
+<text class="dg-name" x="600" y="326">Refunds</text>
+<text class="dg-sub" x="600" y="341">6,896 customers</text>
+<rect class="dg-mask" x="696" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-n dg-n-focal" x="696" y="288" width="144" height="64" rx="6"/>
+<rect class="dg-tagbox dg-t-focal" x="704" y="294" width="72" height="12" rx="2"/>
+<text class="dg-tag dg-t-focal" x="740" y="303">27 SEPTEMBER</text>
+<text class="dg-name" x="768" y="326">Statement</text>
+<text class="dg-sub" x="768" y="341">“a mistake”</text>
+<text class="dg-eyebrow" x="24" y="36" style="text-anchor:start">SCHEMATIC · ONE TITLE, ONE MOMENT, TWO BROWSERS · AS COMPUTERWORLD REPORTED IT</text>
+<rect class="dg-ill-fill" x="24" y="52" width="392" height="176" rx="6"/>
+<line class="dg-ill-soft" x1="24" y1="76" x2="416" y2="76"/>
+<text class="dg-eyebrow" x="36" y="68" style="text-anchor:start">NETSCAPE</text>
+<rect class="dg-ill-soft" x="36" y="88" width="368" height="16" rx="3"/>
+<text class="dg-sub" x="44" y="99" style="text-anchor:start">amazon.com</text>
+<rect class="dg-ill-ink" x="48" y="120" width="72" height="96" rx="3"/>
+<circle class="dg-ill-soft" cx="84" cy="168" r="24"/>
+<circle class="dg-ill-soft" cx="84" cy="168" r="5"/>
+<text class="dg-name" x="144" y="140" style="text-anchor:start">Men in Black</text>
+<text class="dg-sub" x="144" y="156" style="text-anchor:start">DVD · one of 68 test titles</text>
+<text class="dg-name" x="144" y="196" style="text-anchor:start; font-size:26px; fill:var(--dg-accent);">$25.97</text>
+<rect class="dg-ill-fill" x="448" y="52" width="392" height="176" rx="6"/>
+<line class="dg-ill-soft" x1="448" y1="76" x2="840" y2="76"/>
+<text class="dg-eyebrow" x="460" y="68" style="text-anchor:start">INTERNET EXPLORER</text>
+<rect class="dg-ill-soft" x="460" y="88" width="368" height="16" rx="3"/>
+<text class="dg-sub" x="468" y="99" style="text-anchor:start">amazon.com</text>
+<rect class="dg-ill-ink" x="472" y="120" width="72" height="96" rx="3"/>
+<circle class="dg-ill-soft" cx="508" cy="168" r="24"/>
+<circle class="dg-ill-soft" cx="508" cy="168" r="5"/>
+<text class="dg-name" x="568" y="140" style="text-anchor:start">Men in Black</text>
+<text class="dg-sub" x="568" y="156" style="text-anchor:start">DVD · one of 68 test titles</text>
+<text class="dg-name" x="568" y="196" style="text-anchor:start; font-size:26px;">$23.97</text>
+<text class="dg-note" x="432" y="252" text-anchor="middle">the same disc, at the same moment, two dollars apart; the discount on each title was set at random between 20% and 40%</text>
+<text class="dg-note" x="28" y="372" text-anchor="start">discount random,</text>
+<text class="dg-note" x="28" y="385" text-anchor="start">20% to 40%</text>
+<text class="dg-note" x="196" y="372" text-anchor="start">suspicion: loyal</text>
+<text class="dg-note" x="196" y="385" text-anchor="start">customers pay more</text>
+<text class="dg-note" x="364" y="372" text-anchor="start">navigation, design and</text>
+<text class="dg-note" x="364" y="385" text-anchor="start">pricing: satisfied nobody</text>
+<text class="dg-note" x="532" y="372" text-anchor="start">an average of $3.10,</text>
+<text class="dg-note" x="532" y="385" text-anchor="start">a little over $21,000</text>
+<text class="dg-note" x="700" y="372" text-anchor="start">every test buyer gets</text>
+<text class="dg-note" x="700" y="385" text-anchor="start">the lowest test price</text>
+<line class="dg-rule" x1="24" y1="404" x2="840" y2="404"/>
+<rect class="dg-n dg-n-backend" x="24" y="415" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="423">Step in the episode</text>
+<rect class="dg-n dg-n-focal" x="180" y="415" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="202" y="423">The remedy worth copying</text>
+<line class="dg-a dg-a-muted" x1="364" y1="420" x2="388" y2="420" marker-end="url(#fig-5-1-m-muted)"/>
+<text class="dg-legend" x="396" y="423">Order of events</text>
+</svg></div></div>

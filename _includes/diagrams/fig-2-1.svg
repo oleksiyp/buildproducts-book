@@ -1,0 +1,51 @@
+<div class="dg-figure" data-fig="fig-2-1" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-2-1-title fig-2-1-desc">
+<title id="fig-2-1-title">Apple&#x27;s four-quadrant grid</title>
+<desc id="fig-2-1-desc">Schematic of the whiteboard grid Steve Jobs drew at an Apple product strategy session in 1997, as Walter Isaacson describes it: one horizontal and one vertical line, the columns headed Consumer and Pro, the rows labelled Desktop and Portable. The quadrants show the product that filled each: consumer desktop, the iMac, announced May 1998 and shipped August 1998; pro desktop, the Power Macintosh G3, announced November 1997; pro portable, the PowerBook G3; consumer portable, the iBook, unveiled at Macworld New York on 21 July 1999 at $1,599, highlighted because the slot stayed empty for more than a year. A timeline at the right lists the events in order: September 1997, Jobs becomes interim chief executive; November 1997, Power Macintosh G3 announced; May 1998, iMac announced, and TidBITS describes the four-slot strategy with the consumer portable slot empty; August 1998, iMac ships; July 1999, iBook unveiled and the grid is full. A highlighted bar marks the empty slot from the TidBITS report to the iBook. Notes give the results: a loss of about $1.05 billion in fiscal 1997 and a profit of $309 million on $5.94 billion of revenue in fiscal 1998. The layout of the whiteboard is schematic; only its lines and four words are documented.</desc>
+<defs><marker id="fig-2-1-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-2-1-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-2-1-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-ill-fill" x="24" y="40" width="520" height="352" rx="6"/>
+<rect class="dg-ill-fill-accent" x="156" y="256" width="168" height="108" rx="4"/>
+<line class="dg-ill-ink" x1="336" y1="88" x2="336" y2="376" stroke-width="2.4"/>
+<line class="dg-ill-ink" x1="56" y1="244" x2="528" y2="244" stroke-width="2.4"/>
+<line class="dg-ill-soft" x1="616" y1="72" x2="616" y2="312"/>
+<line class="dg-ill-accent" x1="600" y1="192" x2="600" y2="304" stroke-width="3"/>
+<circle class="dg-ill-fill" cx="616" cy="80" r="5"/>
+<circle class="dg-ill-fill" cx="616" cy="136" r="5"/>
+<circle class="dg-ill-fill" cx="616" cy="192" r="5"/>
+<circle class="dg-ill-fill" cx="616" cy="248" r="5"/>
+<circle class="dg-ill-fill" cx="616" cy="304" r="5"/>
+<text class="dg-eyebrow" x="44" y="64" style="text-anchor:start">THE WHITEBOARD, 1997 · SCHEMATIC</text>
+<text class="dg-name" x="240" y="104" style="text-anchor:middle">Consumer</text>
+<text class="dg-name" x="432" y="104" style="text-anchor:middle">Pro</text>
+<text class="dg-name" x="96" y="182" style="text-anchor:middle">Desktop</text>
+<text class="dg-name" x="96" y="314" style="text-anchor:middle">Portable</text>
+<text class="dg-name" x="240" y="168" style="text-anchor:middle">iMac</text>
+<text class="dg-sub" x="240" y="186" style="text-anchor:middle">announced May 1998</text>
+<text class="dg-sub" x="240" y="200" style="text-anchor:middle">shipped August 1998</text>
+<text class="dg-name" x="432" y="174" style="text-anchor:middle">Power Macintosh G3</text>
+<text class="dg-sub" x="432" y="192" style="text-anchor:middle">announced November 1997</text>
+<text class="dg-name" x="432" y="314" style="text-anchor:middle">PowerBook G3</text>
+<text class="dg-name" x="240" y="296" style="text-anchor:middle">iBook</text>
+<text class="dg-sub" x="240" y="314" style="text-anchor:middle">unveiled 21 July 1999</text>
+<text class="dg-sub" x="240" y="328" style="text-anchor:middle">Macworld New York · $1,599</text>
+<text class="dg-label" x="240" y="350" style="text-anchor:middle">EMPTY FOR MORE THAN A YEAR</text>
+<text class="dg-eyebrow" x="592" y="52" style="text-anchor:start">HOW THE GRID WAS FILLED</text>
+<text class="dg-name" x="632" y="84" style="text-anchor:start">Sep 1997</text>
+<text class="dg-note" x="632" y="99" text-anchor="start">Jobs becomes interim CEO</text>
+<text class="dg-name" x="632" y="140" style="text-anchor:start">Nov 1997</text>
+<text class="dg-note" x="632" y="155" text-anchor="start">Power Macintosh G3 announced</text>
+<text class="dg-name" x="632" y="196" style="text-anchor:start">May 1998</text>
+<text class="dg-note" x="632" y="211" text-anchor="start">iMac announced; TidBITS reports</text>
+<text class="dg-note" x="632" y="224" text-anchor="start">the consumer portable slot empty</text>
+<text class="dg-name" x="632" y="252" style="text-anchor:start">Aug 1998</text>
+<text class="dg-note" x="632" y="267" text-anchor="start">iMac ships</text>
+<text class="dg-name" x="632" y="308" style="text-anchor:start">Jul 1999</text>
+<text class="dg-note" x="632" y="323" text-anchor="start">iBook unveiled: the grid is full</text>
+<text class="dg-note" x="592" y="356" text-anchor="start">FY1997: a loss of about $1.05 billion</text>
+<text class="dg-note" x="592" y="372" text-anchor="start">FY1998: $309 million profit on $5.94 billion</text>
+<line class="dg-rule" x1="24" y1="400" x2="840" y2="400"/>
+<rect class="dg-n dg-n-backend" x="24" y="411" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="419">Quadrant filled by a product</text>
+<rect class="dg-n dg-n-focal" x="230" y="411" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="252" y="419">Consumer portable: empty until the iBook</text>
+</svg></div></div>

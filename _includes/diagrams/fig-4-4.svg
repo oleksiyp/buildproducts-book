@@ -1,0 +1,54 @@
+<div class="dg-figure" data-fig="fig-4-4" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-4-4-title fig-4-4-desc">
+<title id="fig-4-4-title">Randomizing fans or events</title>
+<desc id="fig-4-4-desc">Left, randomized by fan: treatment and control fans of one event buy from the same pool of resale listings. If treated fans buy more, they take seats control fans would otherwise have bought, so control finds fewer left and the difference is mostly a transfer between arms. Right, randomized by event, the cluster design: all fans of event A see one fee presentation and buy from A&#x27;s listings, all fans of event B see the other and buy from B&#x27;s, so the interference stays inside each event. Fans who browse several events still leak across clusters at the edges. In Encore&#x27;s experiment 38 organizers let about 520 of their events be randomized, so its precision is that of about 520 units, not of the millions of fans inside them.</desc>
+<defs><marker id="fig-4-4-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-4-4-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-4-4-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="24" y="40" width="384" height="268" rx="8"/><rect class="dg-mask" x="36" y="34" width="104" height="12" rx="2"/><text class="dg-eyebrow" x="88" y="43">RANDOMIZED BY FAN</text>
+<rect class="dg-zone" x="456" y="40" width="384" height="268" rx="8"/><rect class="dg-mask" x="468" y="34" width="172" height="12" rx="2"/><text class="dg-eyebrow" x="554" y="43">RANDOMIZED BY EVENT · CLUSTERS</text>
+<path class="dg-a dg-a-accent" d="M 120,124 L 120,196" marker-end="url(#fig-4-4-m-accent)"/>
+<path class="dg-a dg-a-muted dg-dash" d="M 312,124 L 312,196" marker-end="url(#fig-4-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 556,124 L 556,196" marker-end="url(#fig-4-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 740,124 L 740,196" marker-end="url(#fig-4-4-m-muted)"/>
+<path class="dg-a dg-a-muted dg-dash" d="M 632,108 L 640,108 Q 648,108 648,116 L 648,212 Q 648,220 656,220 L 664,220" marker-end="url(#fig-4-4-m-muted)"/>
+<rect class="dg-mask" x="128" y="154" width="60" height="12" rx="2"/><text class="dg-label dg-l-accent" x="158" y="163">BUYS MORE</text>
+<rect class="dg-mask" x="208" y="154" width="96" height="12" rx="2"/><text class="dg-label" x="256" y="163">FINDS FEWER LEFT</text>
+<rect class="dg-mask" x="48" y="72" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-input" x="48" y="72" width="144" height="52" rx="6"/>
+<text class="dg-name" x="120" y="100">Treatment fans</text>
+<text class="dg-sub" x="120" y="115">one event</text>
+<rect class="dg-mask" x="240" y="72" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-input" x="240" y="72" width="144" height="52" rx="6"/>
+<text class="dg-name" x="312" y="100">Control fans</text>
+<text class="dg-sub" x="312" y="115">same event</text>
+<rect class="dg-mask" x="96" y="196" width="240" height="52" rx="6"/>
+<rect class="dg-n dg-n-store" x="96" y="196" width="240" height="52" rx="6"/>
+<text class="dg-name" x="216" y="224">One event&#x27;s listings</text>
+<text class="dg-sub" x="216" y="239">a seat goes to one fan</text>
+<rect class="dg-mask" x="480" y="72" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-input" x="480" y="72" width="152" height="52" rx="6"/>
+<text class="dg-name" x="556" y="100">Event A&#x27;s fans</text>
+<text class="dg-sub" x="556" y="115">fee as one figure</text>
+<rect class="dg-mask" x="664" y="72" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-input" x="664" y="72" width="152" height="52" rx="6"/>
+<text class="dg-name" x="740" y="100">Event B&#x27;s fans</text>
+<text class="dg-sub" x="740" y="115">fee itemized</text>
+<rect class="dg-mask" x="480" y="196" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-store" x="480" y="196" width="152" height="52" rx="6"/>
+<text class="dg-name" x="556" y="226">Event A&#x27;s listings</text>
+<rect class="dg-mask" x="664" y="196" width="152" height="52" rx="6"/>
+<rect class="dg-n dg-n-store" x="664" y="196" width="152" height="52" rx="6"/>
+<text class="dg-name" x="740" y="226">Event B&#x27;s listings</text>
+<text class="dg-note" x="48" y="276" text-anchor="start">The arms trade seats: the difference is mostly</text>
+<text class="dg-note" x="48" y="290" text-anchor="start">a transfer between arms, not an effect.</text>
+<text class="dg-note" x="480" y="276" text-anchor="start">38 organizers · about 520 events · leaks at the</text>
+<text class="dg-note" x="480" y="290" text-anchor="start">edges · precision of ~520 units, not millions of fans.</text>
+<line class="dg-rule" x1="24" y1="360" x2="840" y2="360"/>
+<rect class="dg-n dg-n-input" x="24" y="371" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="379">Fans in one arm</text>
+<rect class="dg-n dg-n-store" x="158" y="371" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="180" y="379">Resale listings</text>
+<line class="dg-a dg-a-accent" x1="292" y1="376" x2="316" y2="376" marker-end="url(#fig-4-4-m-accent)"/>
+<text class="dg-legend" x="324" y="379">Seats taken from the other arm</text>
+<line class="dg-a dg-a-muted dg-dash" x1="520" y1="376" x2="544" y2="376" marker-end="url(#fig-4-4-m-muted)"/>
+<text class="dg-legend" x="552" y="379">Lost purchase or leak across clusters</text>
+</svg></div></div>

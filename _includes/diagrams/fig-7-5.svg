@@ -1,0 +1,74 @@
+<div class="dg-figure" data-fig="fig-7-5" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-7-5-title fig-7-5-desc">
+<title id="fig-7-5-title">The organizer console&#x27;s shell and remotes</title>
+<desc id="fig-7-5-desc">In the organizer&#x27;s browser, the console shell, owned by the Organizer Console team with a 110 KB JavaScript budget, owns routing, the organizer&#x27;s session, the tenant and its theme, error boundaries and the navigation frame; its objective is that 99.9% of console page loads render the shell and the requested remote without an error boundary firing, over 28 days. At runtime it loads the remotes, each shipping on its owner&#x27;s schedule within 80 KB of JavaScript beyond the shared singletons: Onboarding, Event Setup, Pricing &amp; Presales, Festivals (Setlist adoption 44%), Insights and Forecasting, with the resale rules console planned as the seventh. Beneath them, four shared singletons are loaded once for the page: react, react-dom, @encore/setlist and @encore/session. Served beside the browser: a discovery manifest, fetched by the shell at startup, names the current version of each remote, so a remote&#x27;s owner releases or rolls back by changing one entry; and the organizer backend for frontend, owned by the Organizer Console team.</desc>
+<defs><marker id="fig-7-5-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-7-5-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-7-5-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<rect class="dg-zone" x="24" y="48" width="632" height="380" rx="8"/><rect class="dg-mask" x="36" y="42" width="112" height="12" rx="2"/><text class="dg-eyebrow" x="92" y="51">ORGANIZER&#x27;S BROWSER</text>
+<rect class="dg-zone" x="672" y="48" width="168" height="380" rx="8"/><rect class="dg-mask" x="684" y="42" width="44" height="12" rx="2"/><text class="dg-eyebrow" x="706" y="51">SERVED</text>
+<rect class="dg-zone" x="36" y="188" width="612" height="156" rx="8"/><rect class="dg-mask" x="48" y="182" width="248" height="12" rx="2"/><text class="dg-eyebrow" x="172" y="191">REMOTES · EACH SHIPS ON ITS OWNER&#x27;S SCHEDULE</text>
+<path class="dg-a dg-a-accent" d="M 636,96 L 684,96" marker-end="url(#fig-7-5-m-accent)"/>
+<path class="dg-a dg-a-muted" d="M 636,132 L 656,132 Q 664,132 664,140 L 664,232 Q 664,240 672,240 L 684,240" marker-end="url(#fig-7-5-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 340,148 L 340,188" marker-end="url(#fig-7-5-m-muted)"/>
+<rect class="dg-mask" x="348" y="162" width="96" height="12" rx="2"/><text class="dg-label" x="396" y="171">LOADS AT RUNTIME</text>
+<rect class="dg-mask" x="44" y="76" width="592" height="72" rx="6"/>
+<rect class="dg-n dg-n-focal" x="44" y="76" width="592" height="72" rx="6"/>
+<rect class="dg-tagbox dg-t-focal" x="52" y="82" width="188" height="12" rx="2"/>
+<text class="dg-tag dg-t-focal" x="146" y="91">ORGANIZER CONSOLE TEAM · 110 KB JS</text>
+<text class="dg-name" x="340" y="118">Console shell</text>
+<text class="dg-sub" x="340" y="133">routing · session · tenant theme · error boundaries · navigation frame</text>
+<rect class="dg-mask" x="44" y="208" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="44" y="208" width="144" height="52" rx="6"/>
+<text class="dg-name" x="116" y="238">Onboarding</text>
+<rect class="dg-mask" x="196" y="208" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="196" y="208" width="144" height="52" rx="6"/>
+<text class="dg-name" x="268" y="238">Event Setup</text>
+<rect class="dg-mask" x="348" y="208" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="348" y="208" width="144" height="52" rx="6"/>
+<text class="dg-name" x="420" y="238">Pricing &amp; Presales</text>
+<rect class="dg-mask" x="500" y="208" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="500" y="208" width="144" height="52" rx="6"/>
+<text class="dg-name" x="572" y="236">Festivals</text>
+<text class="dg-sub" x="572" y="251">Setlist adoption 44%</text>
+<rect class="dg-mask" x="44" y="276" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="44" y="276" width="144" height="52" rx="6"/>
+<text class="dg-name" x="116" y="306">Insights</text>
+<rect class="dg-mask" x="196" y="276" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-backend" x="196" y="276" width="144" height="52" rx="6"/>
+<text class="dg-name" x="268" y="306">Forecasting</text>
+<rect class="dg-mask" x="348" y="276" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-optional" x="348" y="276" width="144" height="52" rx="6" stroke-dasharray="4,3"/>
+<text class="dg-name" x="420" y="304">Resale rules</text>
+<text class="dg-sub" x="420" y="319">7th · planned</text>
+<rect class="dg-mask" x="36" y="360" width="612" height="52" rx="6"/>
+<rect class="dg-n dg-n-store" x="36" y="360" width="612" height="52" rx="6"/>
+<text class="dg-name" x="342" y="388">Shared singletons, loaded once for the page</text>
+<text class="dg-sub" x="342" y="403">react · react-dom · @encore/setlist · @encore/session</text>
+<rect class="dg-mask" x="684" y="72" width="144" height="52" rx="6"/>
+<rect class="dg-n dg-n-store" x="684" y="72" width="144" height="52" rx="6"/>
+<text class="dg-name" x="756" y="100">Discovery manifest</text>
+<text class="dg-sub" x="756" y="115">a version per remote</text>
+<rect class="dg-mask" x="684" y="212" width="144" height="56" rx="6"/>
+<rect class="dg-n dg-n-backend" x="684" y="212" width="144" height="56" rx="6"/>
+<text class="dg-name" x="756" y="242">Organizer BFF</text>
+<text class="dg-sub" x="756" y="257">Organizer Console team</text>
+<text class="dg-eyebrow" x="24" y="24" style="text-anchor:start">ENCORE'S ORGANIZER CONSOLE · RUNTIME MODULE FEDERATION</text>
+<text class="dg-note" x="44" y="172" text-anchor="start">SLO: 99.9% of loads, no error boundary, 28 days</text>
+<text class="dg-note" x="508" y="296" text-anchor="start">each: its own team,</text>
+<text class="dg-note" x="508" y="309" text-anchor="start">its own release,</text>
+<text class="dg-note" x="508" y="322" text-anchor="start">≤ 80 KB JS beyond</text>
+<text class="dg-note" x="508" y="335" text-anchor="start">the singletons</text>
+<text class="dg-note" x="684" y="144" text-anchor="start">fetched at startup;</text>
+<text class="dg-note" x="684" y="157" text-anchor="start">one entry releases</text>
+<text class="dg-note" x="684" y="170" text-anchor="start">or rolls back a remote</text>
+<line class="dg-rule" x1="24" y1="440" x2="840" y2="440"/>
+<rect class="dg-n dg-n-focal" x="24" y="451" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="459">Shell, run as a product</text>
+<rect class="dg-n dg-n-backend" x="202" y="451" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="224" y="459">Remote or service</text>
+<rect class="dg-n dg-n-optional" x="347" y="451" width="16" height="10" rx="2" stroke-dasharray="4,3"/>
+<text class="dg-legend" x="369" y="459">Planned remote</text>
+<rect class="dg-n dg-n-store" x="475" y="451" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="497" y="459">Shared or served data</text>
+<line class="dg-a dg-a-accent" x1="642" y1="456" x2="666" y2="456" marker-end="url(#fig-7-5-m-accent)"/>
+<text class="dg-legend" x="674" y="459">Versions from the manifest</text>
+</svg></div></div>

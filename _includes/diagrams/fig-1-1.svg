@@ -1,0 +1,92 @@
+<div class="dg-figure" data-fig="fig-1-1" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-1-1-title fig-1-1-desc">
+<title id="fig-1-1-title">HealthCare.gov, October 2013 to August 2014</title>
+<desc id="fig-1-1-desc">A timeline of HealthCare.gov&#x27;s first ten months, with events in order but not to scale. Above the line is what the organization did; below it is what users experienced. 1 October 2013: the site opens on the date the White House had promised, built under about 60 contracts with no declared business owner; about 250,000 people try to use it at once, it is failing within two hours, and only six people manage to submit an application and select a plan that day. Third week of October to early December 2013: the repair, in which outside engineers under Jeff Zients and Todd Park first build a dashboard of the site&#x27;s health, and CMS staff and contractors work as one badgeless team with ruthless prioritization; until then nobody could see what users were experiencing. Early December 2013: the site serves at least 50,000 people at once and uptime has risen from 43% to 95%. 1 January 2014: coverage begins, the only date the law required. End of the first open enrollment, 2014: 5.4 million people have selected a plan through the federal marketplace. August 2014: the US Digital Service is founded, and its Digital Services Playbook&#x27;s sixth play says to assign one leader and hold that person accountable.</desc>
+<defs><marker id="fig-1-1-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-1-1-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-1-1-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<line class="dg-ill-ink" x1="28" y1="216" x2="836" y2="216"/>
+<line class="dg-ill-soft" x1="98" y1="172" x2="98" y2="216"/>
+<line class="dg-ill-soft" x1="98" y1="216" x2="98" y2="268"/>
+<line class="dg-ill-soft" x1="230" y1="172" x2="230" y2="216"/>
+<line class="dg-ill-soft" x1="230" y1="216" x2="230" y2="268"/>
+<line class="dg-ill-soft" x1="362" y1="172" x2="362" y2="216"/>
+<line class="dg-ill-soft" x1="362" y1="216" x2="362" y2="268"/>
+<line class="dg-ill-soft" x1="494" y1="172" x2="494" y2="216"/>
+<line class="dg-ill-soft" x1="626" y1="216" x2="626" y2="268"/>
+<line class="dg-ill-soft" x1="758" y1="172" x2="758" y2="216"/>
+<rect class="dg-zone" x="24" y="52" width="816" height="132" rx="8"/><rect class="dg-mask" x="36" y="46" width="236" height="12" rx="2"/><text class="dg-eyebrow" x="154" y="55">ABOVE THE LINE · WHAT THE ORGANIZATION DID</text>
+<rect class="dg-zone" x="24" y="252" width="816" height="132" rx="8"/><rect class="dg-mask" x="36" y="246" width="220" height="12" rx="2"/><text class="dg-eyebrow" x="146" y="255">BELOW THE LINE · WHAT USERS EXPERIENCED</text>
+<rect class="dg-mask" x="66" y="226" width="64" height="12" rx="2"/><text class="dg-label" x="98" y="235">1 OCT 2013</text>
+<rect class="dg-mask" x="178" y="226" width="104" height="12" rx="2"/><text class="dg-label" x="230" y="235">3RD WEEK OCT 2013</text>
+<rect class="dg-mask" x="318" y="226" width="88" height="12" rx="2"/><text class="dg-label" x="362" y="235">EARLY DEC 2013</text>
+<rect class="dg-mask" x="462" y="226" width="64" height="12" rx="2"/><text class="dg-label" x="494" y="235">1 JAN 2014</text>
+<rect class="dg-mask" x="564" y="226" width="124" height="12" rx="2"/><text class="dg-label" x="626" y="235">FIRST ENROLLMENT ENDS</text>
+<rect class="dg-mask" x="730" y="226" width="56" height="12" rx="2"/><text class="dg-label" x="758" y="235">AUG 2014</text>
+<circle class="dg-dot dg-dot-ink" cx="98" cy="216" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="230" cy="216" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="362" cy="216" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="494" cy="216" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="626" cy="216" r="4"/>
+<circle class="dg-dot dg-dot-ink" cx="758" cy="216" r="4"/>
+<rect class="dg-mask" x="36" y="68" width="124" height="104" rx="6"/>
+<rect class="dg-n dg-n-backend" x="36" y="68" width="124" height="104" rx="6"/>
+<text class="dg-name" x="98" y="98">Site opens</text>
+<text class="dg-sub" x="98" y="116">on the date the</text>
+<text class="dg-sub" x="98" y="129">White House set;</text>
+<text class="dg-sub" x="98" y="142">~60 contracts,</text>
+<text class="dg-sub" x="98" y="155">no business owner</text>
+<rect class="dg-mask" x="168" y="68" width="256" height="104" rx="6"/>
+<rect class="dg-n dg-n-backend" x="168" y="68" width="256" height="104" rx="6"/>
+<text class="dg-name" x="296" y="91">The repair</text>
+<text class="dg-sub" x="296" y="109">outside engineers under</text>
+<text class="dg-sub" x="296" y="122">Zients and Park build a</text>
+<text class="dg-sub" x="296" y="135">health dashboard; CMS and</text>
+<text class="dg-sub" x="296" y="148">contractors work as one</text>
+<text class="dg-sub" x="296" y="161">badgeless team</text>
+<rect class="dg-mask" x="432" y="68" width="124" height="104" rx="6"/>
+<rect class="dg-n dg-n-backend" x="432" y="68" width="124" height="104" rx="6"/>
+<text class="dg-name" x="494" y="111">Coverage begins</text>
+<text class="dg-sub" x="494" y="129">the only date</text>
+<text class="dg-sub" x="494" y="142">the law required</text>
+<rect class="dg-mask" x="696" y="68" width="124" height="104" rx="6"/>
+<rect class="dg-n dg-n-focal" x="696" y="68" width="124" height="104" rx="6"/>
+<text class="dg-name" x="758" y="98">USDS founded</text>
+<text class="dg-sub" x="758" y="116">Playbook play 6:</text>
+<text class="dg-sub" x="758" y="129">assign one leader,</text>
+<text class="dg-sub" x="758" y="142">hold that person</text>
+<text class="dg-sub" x="758" y="155">accountable</text>
+<rect class="dg-mask" x="36" y="268" width="124" height="104" rx="6"/>
+<rect class="dg-n dg-n-focal" x="36" y="268" width="124" height="104" rx="6"/>
+<text class="dg-name" x="98" y="298">6 people</text>
+<text class="dg-sub" x="98" y="316">apply and select a</text>
+<text class="dg-sub" x="98" y="329">plan on day one;</text>
+<text class="dg-sub" x="98" y="342">~250,000 at once,</text>
+<text class="dg-sub" x="98" y="355">failing in 2 hours</text>
+<rect class="dg-mask" x="168" y="268" width="124" height="104" rx="6"/>
+<rect class="dg-n dg-n-optional" x="168" y="268" width="124" height="104" rx="6" stroke-dasharray="4,3"/>
+<text class="dg-name" x="230" y="304">Unmeasured</text>
+<text class="dg-sub" x="230" y="322">until then, nobody</text>
+<text class="dg-sub" x="230" y="335">could see what</text>
+<text class="dg-sub" x="230" y="348">users experienced</text>
+<rect class="dg-mask" x="300" y="268" width="124" height="104" rx="6"/>
+<rect class="dg-n dg-n-input" x="300" y="268" width="124" height="104" rx="6"/>
+<text class="dg-name" x="362" y="304">Site recovers</text>
+<text class="dg-sub" x="362" y="322">≥ 50,000 at once;</text>
+<text class="dg-sub" x="362" y="335">uptime from</text>
+<text class="dg-sub" x="362" y="348">43% to 95%</text>
+<rect class="dg-mask" x="564" y="268" width="124" height="104" rx="6"/>
+<rect class="dg-n dg-n-input" x="564" y="268" width="124" height="104" rx="6"/>
+<text class="dg-name" x="626" y="304">5.4 million</text>
+<text class="dg-sub" x="626" y="322">selected a plan</text>
+<text class="dg-sub" x="626" y="335">through the federal</text>
+<text class="dg-sub" x="626" y="348">marketplace</text>
+<text class="dg-eyebrow" x="24" y="32" style="text-anchor:start">HEALTHCARE.GOV · EVENTS IN ORDER, NOT TO SCALE</text>
+<line class="dg-rule" x1="24" y1="400" x2="840" y2="400"/>
+<rect class="dg-n dg-n-backend" x="24" y="411" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="419">What was done</text>
+<rect class="dg-n dg-n-input" x="146" y="411" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="168" y="419">What users met</text>
+<rect class="dg-n dg-n-optional" x="274" y="411" width="16" height="10" rx="2" stroke-dasharray="4,3"/>
+<text class="dg-legend" x="296" y="419">What nobody saw</text>
+<rect class="dg-n dg-n-focal" x="408" y="411" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="430" y="419">The day-one outcome and the lesson</text>
+</svg></div></div>

@@ -1,0 +1,99 @@
+<div class="dg-figure" data-fig="fig-3-6" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 476" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-3-6-title fig-3-6-desc">
+<title id="fig-3-6-title">The story map for Verified Resale</title>
+<desc id="fig-3-6-desc">A story map. Across the top runs the backbone, six activities in the order the journey happens: organizer sets rules; fan lists through a partner; another fan buys; ticket is reissued; buyer enters; money is paid out. Beneath each activity its details sit in three release slices, each a complete journey. First slice: a resale window and per-fan limits with the face-value cap only; Rowmate only, for one organizer&#x27;s events; Bot Screening and per-buyer limits; a new barcode issued and the old one revoked; one venue in Lyon; the fee split recorded, with payouts after the event. Launch slice: an off switch and a lower cap; Encore&#x27;s own app as well; the all-in price with the fee shown up front; the wallet pass replaced and a &#x27;your ticket sold&#x27; message; three organizers&#x27; venues in France; the organizer share on every tier. Later: a plain-language rule assistant; Tessera; nothing further for buying or reissue; more markets; nothing further for payouts.</desc>
+<defs><marker id="fig-3-6-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-3-6-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-3-6-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<line class="dg-series dg-s-accent" x1="24" y1="136" x2="840" y2="136" stroke-dasharray="5 4"/>
+<line class="dg-series dg-s-soft" x1="24" y1="248" x2="840" y2="248" stroke-dasharray="5 4"/>
+<line class="dg-series dg-s-soft" x1="24" y1="360" x2="840" y2="360" stroke-dasharray="5 4"/>
+<rect class="dg-n dg-n-backend" x="104" y="56" width="116" height="64" rx="6" stroke-width="1.4"/>
+<rect class="dg-n dg-n-backend" x="228" y="56" width="116" height="64" rx="6" stroke-width="1.4"/>
+<rect class="dg-n dg-n-backend" x="352" y="56" width="116" height="64" rx="6" stroke-width="1.4"/>
+<rect class="dg-n dg-n-backend" x="476" y="56" width="116" height="64" rx="6" stroke-width="1.4"/>
+<rect class="dg-n dg-n-backend" x="600" y="56" width="116" height="64" rx="6" stroke-width="1.4"/>
+<rect class="dg-n dg-n-backend" x="724" y="56" width="116" height="64" rx="6" stroke-width="1.4"/>
+<rect class="dg-n dg-n-input" x="104" y="152" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="104" y="196" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="228" y="152" width="116" height="24" rx="4"/>
+<rect class="dg-n dg-n-input" x="228" y="184" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="352" y="152" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="476" y="152" width="116" height="48" rx="4"/>
+<rect class="dg-n dg-n-input" x="600" y="152" width="116" height="24" rx="4"/>
+<rect class="dg-n dg-n-input" x="724" y="152" width="116" height="24" rx="4"/>
+<rect class="dg-n dg-n-input" x="724" y="184" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="104" y="264" width="116" height="24" rx="4"/>
+<rect class="dg-n dg-n-input" x="104" y="296" width="116" height="24" rx="4"/>
+<rect class="dg-n dg-n-input" x="228" y="264" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="352" y="264" width="116" height="48" rx="4"/>
+<rect class="dg-n dg-n-input" x="476" y="264" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="476" y="308" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="600" y="264" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="724" y="264" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="104" y="376" width="116" height="36" rx="4"/>
+<rect class="dg-n dg-n-input" x="228" y="376" width="116" height="24" rx="4"/>
+<rect class="dg-n dg-n-input" x="600" y="376" width="116" height="24" rx="4"/>
+<text class="dg-eyebrow" x="104" y="40" style="text-anchor:start">BACKBONE · THE JOURNEY, READ LEFT TO RIGHT</text>
+<text class="dg-eyebrow" x="24" y="40" style="text-anchor:start">SLICE ↓</text>
+<text class="dg-eyebrow dg-l-accent" x="24" y="162" style="text-anchor:start">FIRST SLICE</text>
+<text class="dg-eyebrow" x="24" y="274" style="text-anchor:start">LAUNCH SLICE</text>
+<text class="dg-eyebrow" x="24" y="386" style="text-anchor:start">LATER</text>
+<text class="dg-name" x="162" y="85">Organizer</text>
+<text class="dg-name" x="162" y="99">sets rules</text>
+<text class="dg-name" x="286" y="78">Fan lists</text>
+<text class="dg-name" x="286" y="92">through a</text>
+<text class="dg-name" x="286" y="106">partner</text>
+<text class="dg-name" x="410" y="85">Another fan</text>
+<text class="dg-name" x="410" y="99">buys</text>
+<text class="dg-name" x="534" y="85">Ticket is</text>
+<text class="dg-name" x="534" y="99">reissued</text>
+<text class="dg-name" x="658" y="92">Buyer enters</text>
+<text class="dg-name" x="782" y="85">Money is</text>
+<text class="dg-name" x="782" y="99">paid out</text>
+<text class="dg-sub" x="112" y="167" style="text-anchor:start;fill:var(--dg-ink)">window and per-</text>
+<text class="dg-sub" x="112" y="179" style="text-anchor:start;fill:var(--dg-ink)">fan limits</text>
+<text class="dg-sub" x="112" y="211" style="text-anchor:start;fill:var(--dg-ink)">face-value cap</text>
+<text class="dg-sub" x="112" y="223" style="text-anchor:start;fill:var(--dg-ink)">only</text>
+<text class="dg-sub" x="236" y="167" style="text-anchor:start;fill:var(--dg-ink)">Rowmate only</text>
+<text class="dg-sub" x="236" y="199" style="text-anchor:start;fill:var(--dg-ink)">one organizer&#x27;s</text>
+<text class="dg-sub" x="236" y="211" style="text-anchor:start;fill:var(--dg-ink)">events</text>
+<text class="dg-sub" x="360" y="167" style="text-anchor:start;fill:var(--dg-ink)">Bot Screening and</text>
+<text class="dg-sub" x="360" y="179" style="text-anchor:start;fill:var(--dg-ink)">per-buyer limits</text>
+<text class="dg-sub" x="484" y="167" style="text-anchor:start;fill:var(--dg-ink)">new barcode</text>
+<text class="dg-sub" x="484" y="179" style="text-anchor:start;fill:var(--dg-ink)">issued, old one</text>
+<text class="dg-sub" x="484" y="191" style="text-anchor:start;fill:var(--dg-ink)">revoked</text>
+<text class="dg-sub" x="608" y="167" style="text-anchor:start;fill:var(--dg-ink)">one venue in Lyon</text>
+<text class="dg-sub" x="732" y="167" style="text-anchor:start;fill:var(--dg-ink)">split recorded</text>
+<text class="dg-sub" x="732" y="199" style="text-anchor:start;fill:var(--dg-ink)">payouts after the</text>
+<text class="dg-sub" x="732" y="211" style="text-anchor:start;fill:var(--dg-ink)">event</text>
+<text class="dg-sub" x="112" y="279" style="text-anchor:start;fill:var(--dg-ink)">off switch</text>
+<text class="dg-sub" x="112" y="311" style="text-anchor:start;fill:var(--dg-ink)">lower cap</text>
+<text class="dg-sub" x="236" y="279" style="text-anchor:start;fill:var(--dg-ink)">Encore&#x27;s own app</text>
+<text class="dg-sub" x="236" y="291" style="text-anchor:start;fill:var(--dg-ink)">as well</text>
+<text class="dg-sub" x="360" y="279" style="text-anchor:start;fill:var(--dg-ink)">all-in price with</text>
+<text class="dg-sub" x="360" y="291" style="text-anchor:start;fill:var(--dg-ink)">fee shown up</text>
+<text class="dg-sub" x="360" y="303" style="text-anchor:start;fill:var(--dg-ink)">front</text>
+<text class="dg-sub" x="484" y="279" style="text-anchor:start;fill:var(--dg-ink)">wallet pass</text>
+<text class="dg-sub" x="484" y="291" style="text-anchor:start;fill:var(--dg-ink)">replaced</text>
+<text class="dg-sub" x="484" y="323" style="text-anchor:start;fill:var(--dg-ink)">&quot;your ticket</text>
+<text class="dg-sub" x="484" y="335" style="text-anchor:start;fill:var(--dg-ink)">sold&quot; message</text>
+<text class="dg-sub" x="608" y="279" style="text-anchor:start;fill:var(--dg-ink)">three organizers&#x27;</text>
+<text class="dg-sub" x="608" y="291" style="text-anchor:start;fill:var(--dg-ink)">venues in France</text>
+<text class="dg-sub" x="732" y="279" style="text-anchor:start;fill:var(--dg-ink)">organizer share</text>
+<text class="dg-sub" x="732" y="291" style="text-anchor:start;fill:var(--dg-ink)">on every tier</text>
+<text class="dg-sub" x="112" y="391" style="text-anchor:start;fill:var(--dg-ink)">plain-language</text>
+<text class="dg-sub" x="112" y="403" style="text-anchor:start;fill:var(--dg-ink)">rule assistant</text>
+<text class="dg-sub" x="236" y="391" style="text-anchor:start;fill:var(--dg-ink)">Tessera</text>
+<text class="dg-note" x="410" y="391" text-anchor="middle">—</text>
+<text class="dg-note" x="534" y="391" text-anchor="middle">—</text>
+<text class="dg-sub" x="608" y="391" style="text-anchor:start;fill:var(--dg-ink)">more markets</text>
+<text class="dg-note" x="782" y="391" text-anchor="middle">—</text>
+<line class="dg-rule" x1="24" y1="436" x2="840" y2="436"/>
+<rect class="dg-n dg-n-backend" x="24" y="447" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="455">Activity on the backbone</text>
+<rect class="dg-n dg-n-input" x="208" y="447" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="230" y="455">Detail, most essential first</text>
+<line class="dg-a dg-a-accent dg-dash" x1="414" y1="452" x2="438" y2="452" marker-end="url(#fig-3-6-m-accent)"/>
+<text class="dg-legend" x="446" y="455">First slice: the walking skeleton</text>
+<line class="dg-a dg-a-muted dg-dash" x1="658" y1="452" x2="682" y2="452" marker-end="url(#fig-3-6-m-muted)"/>
+<text class="dg-legend" x="690" y="455">Later slices</text>
+</svg></div></div>

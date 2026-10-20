@@ -1,0 +1,78 @@
+<div class="dg-figure" data-fig="fig-9-4" style="--dg-w:864px"><div class="dg-scroll"><svg class="dg" viewBox="0 0 864 532" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fig-9-4-title fig-9-4-desc">
+<title id="fig-9-4-title">The reissue operation</title>
+<desc id="fig-9-4-desc">When a listing sells, the order&#x27;s response names a reissue operation, which passes through three stages: revoke, in which the seller&#x27;s barcode is revoked and joins the revocation lists venue scanners hold for offline validation; issue, in which a new ticket identity and barcode are issued to the buyer; and deliver, in which the new ticket reaches the buyer&#x27;s app and any wallet pass is updated. A failed stage is retried by Encore and reported as such. Most reissues finish in under 30 seconds and 99 percent within four minutes; listings close two hours before doors. The operation is cancellable only until the first stage completes; after that, reversing a reissue needs two people&#x27;s approval at Encore. Below, what a partner reads from the operation: its current stage, the cancellable flag, a done flag, and a result or an error once finished; and the events reissue.completed or reissue.failed. Operations are kept for 30 days.</desc>
+<defs><marker id="fig-9-4-m-muted" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-muted" points="0 0, 8 3, 0 6"/></marker><marker id="fig-9-4-m-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-accent" points="0 0, 8 3, 0 6"/></marker><marker id="fig-9-4-m-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon class="dg-head dg-head-link" points="0 0, 8 3, 0 6"/></marker></defs>
+<rect class="dg-paper" width="100%" height="100%" rx="8"/>
+<path class="dg-ill-soft" d="M 184,72 V 64 H 752 V 72"/>
+<rect class="dg-n dg-n-input" x="184" y="248" width="192" height="24" rx="4"/>
+<rect class="dg-n dg-n-optional" x="384" y="248" width="368" height="24" rx="4" stroke-dasharray="4,3"/>
+<rect class="dg-zone" x="24" y="320" width="320" height="100" rx="8"/><rect class="dg-mask" x="36" y="314" width="128" height="12" rx="2"/><text class="dg-eyebrow" x="100" y="323">WHAT THE PARTNER READS</text>
+<path class="dg-a dg-a-muted" d="M 152,164 L 184,164" marker-end="url(#fig-9-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 352,164 L 384,164" marker-end="url(#fig-9-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 552,164 L 584,164" marker-end="url(#fig-9-4-m-muted)"/>
+<path class="dg-a dg-a-muted" d="M 752,164 L 792,164" marker-end="url(#fig-9-4-m-muted)"/>
+<path class="dg-a dg-a-muted dg-dash" d="M 712,128 L 712,112 Q 712,104 704,104 L 632,104 Q 624,104 624,112 L 624,128" marker-end="url(#fig-9-4-m-muted)"/>
+<path class="dg-a dg-a-link" d="M 808,172 L 808,364 Q 808,372 800,372 L 712,372" marker-end="url(#fig-9-4-m-link)"/>
+<path class="dg-a dg-a-link" d="M 552,372 L 344,372" marker-end="url(#fig-9-4-m-link)"/>
+<rect class="dg-mask" x="370" y="44" width="196" height="12" rx="2"/><text class="dg-label" x="468" y="53">MOST UNDER 30 S · 99% WITHIN 4 MIN</text>
+<rect class="dg-mask" x="608" y="84" width="120" height="12" rx="2"/><text class="dg-label" x="668" y="93">FAILED STAGE · RETRY</text>
+<rect class="dg-mask" x="328" y="292" width="96" height="12" rx="2"/><text class="dg-label dg-l-accent" x="376" y="301">FIRST STAGE DONE</text>
+<rect class="dg-mask" x="816" y="266" width="44" height="12" rx="2"/><text class="dg-label dg-l-link" x="838" y="275">EVENTS</text>
+<rect class="dg-mask" x="392" y="352" width="112" height="12" rx="2"/><text class="dg-label dg-l-link" x="448" y="361">READS THE OPERATION</text>
+<circle class="dg-end-ring" cx="808" cy="164" r="8"/><circle class="dg-start" cx="808" cy="164" r="5"/>
+<rect class="dg-mask" x="24" y="136" width="128" height="56" rx="6"/>
+<rect class="dg-n dg-n-input" x="24" y="136" width="128" height="56" rx="6"/>
+<text class="dg-name" x="88" y="166">Order created</text>
+<text class="dg-sub" x="88" y="181">names the operation</text>
+<rect class="dg-mask" x="184" y="128" width="168" height="72" rx="6"/>
+<rect class="dg-n dg-n-backend" x="184" y="128" width="168" height="72" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="192" y="134" width="48" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="216" y="143">STAGE 1</text>
+<text class="dg-name" x="268" y="170">Revoke</text>
+<text class="dg-sub" x="268" y="185">seller&#x27;s barcode</text>
+<rect class="dg-mask" x="384" y="128" width="168" height="72" rx="6"/>
+<rect class="dg-n dg-n-backend" x="384" y="128" width="168" height="72" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="392" y="134" width="48" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="416" y="143">STAGE 2</text>
+<text class="dg-name" x="468" y="170">Issue</text>
+<text class="dg-sub" x="468" y="185">new ticket identity</text>
+<rect class="dg-mask" x="584" y="128" width="168" height="72" rx="6"/>
+<rect class="dg-n dg-n-backend" x="584" y="128" width="168" height="72" rx="6"/>
+<rect class="dg-tagbox dg-t-backend" x="592" y="134" width="48" height="12" rx="2"/>
+<text class="dg-tag dg-t-backend" x="616" y="143">STAGE 3</text>
+<text class="dg-name" x="668" y="170">Deliver</text>
+<text class="dg-sub" x="668" y="185">to the buyer&#x27;s app</text>
+<line class="dg-ill-accent" x1="376" y1="120" x2="376" y2="284" stroke-dasharray="5 4"/>
+<rect class="dg-mask" x="552" y="344" width="160" height="56" rx="6"/>
+<rect class="dg-n dg-n-external" x="552" y="344" width="160" height="56" rx="6"/>
+<text class="dg-name" x="632" y="374">Partner</text>
+<text class="dg-sub" x="632" y="389">e.g. Rowmate</text>
+<text class="dg-eyebrow" x="24" y="32" style="text-anchor:start">ONE RESALE · THE OPERATION THE ORDER NAMES</text>
+<text class="dg-note" x="808" y="148" text-anchor="middle">DONE</text>
+<text class="dg-note" x="188" y="220" text-anchor="start">joins the revocation lists</text>
+<text class="dg-note" x="188" y="234" text-anchor="start">gates hold offline</text>
+<text class="dg-note" x="388" y="220" text-anchor="start">new barcode, to the buyer</text>
+<text class="dg-note" x="588" y="220" text-anchor="start">wallet pass updated, if any</text>
+<text class="dg-sub" x="280" y="263">cancellable: true</text>
+<text class="dg-sub" x="568" y="263">cancellable: false · reversal needs two approvals at Encore</text>
+<text class="dg-note" x="40" y="344" xml:space="preserve">operations/rei_51Vd</text>
+<text class="dg-note" x="40" y="359" xml:space="preserve">  stage:        revoke | issue | deliver</text>
+<text class="dg-note" x="40" y="374" xml:space="preserve">  cancellable:  true, until stage 1 is done</text>
+<text class="dg-note" x="40" y="389" xml:space="preserve">  done:         false while in progress</text>
+<text class="dg-note" x="40" y="404" xml:space="preserve">  result | error, once done</text>
+<text class="dg-note" x="24" y="444" text-anchor="start">The partner tells its buyer &quot;your ticket is being issued&quot; honestly;</text>
+<text class="dg-note" x="24" y="458" text-anchor="start">a failed stage with its retry reads &quot;delayed&quot;, not &quot;lost&quot;</text>
+<text class="dg-note" x="552" y="420" text-anchor="start">reissue.completed | reissue.failed</text>
+<text class="dg-note" x="24" y="476" text-anchor="start">Listings close 2 h before doors, so the slowest reissue ends long before the turnstile. Operations are kept 30 days.</text>
+<line class="dg-rule" x1="24" y1="492" x2="840" y2="492"/>
+<rect class="dg-n dg-n-input" x="24" y="503" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="46" y="511">Order</text>
+<rect class="dg-n dg-n-backend" x="102" y="503" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="124" y="511">Stage of the operation</text>
+<rect class="dg-n dg-n-external" x="275" y="503" width="16" height="10" rx="2"/>
+<text class="dg-legend" x="297" y="511">Partner</text>
+<line class="dg-a dg-a-link" x1="364" y1="508" x2="388" y2="508" marker-end="url(#fig-9-4-m-link)"/>
+<text class="dg-legend" x="396" y="511">What reaches the partner</text>
+<line class="dg-a dg-a-muted dg-dash" x1="558" y1="508" x2="582" y2="508" marker-end="url(#fig-9-4-m-muted)"/>
+<text class="dg-legend" x="590" y="511">Retry</text>
+</svg></div></div>
